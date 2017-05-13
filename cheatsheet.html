@@ -1,0 +1,22 @@
+transition: 'slide', // none/fade/slide/convex/concave/zoom // Transition style for full page slide backgrounds backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom // Parallax background image parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+// Parallax background size parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px" data-background-image URL of the image to show. GIFs restart when the slide opens. data-background-size cover See background-size on MDN. data-background-position
+center See background-position on MDN. data-background-repeat no-repeat See background-repeat on MDN. Parallax Background If you want to use a parallax scrolling background, set the first two config properties below when initializing reveal.js (the other
+two are optional). Reveal.initialize({ // Parallax background image parallaxBackgroundImage: '', // e.g. "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg" // Parallax background size parallaxBackgroundSize: '', // CSS syntax, e.g.
+"2100px 900px" - currently only pixels are supported (don't use % or auto) // Number of pixels to move the parallax background per slide // - Calculated automatically unless specified // - Set to 0 to disable movement along an axis parallaxBackgroundHorizontal:
+200, parallaxBackgroundVertical: 50 });
+
+<section data-transition="slide">
+    The train goes on …
+</section>
+<section data-transition="slide">
+    and on …
+</section>
+<section data-transition="slide-in fade-out">
+    and stops.
+</section>
+<section data-transition="fade-in slide-out">
+    (Passengers entering and leaving)
+</section>
+<section data-transition="slide">
+    And it starts again.
+</section>
