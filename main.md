@@ -11,7 +11,7 @@ Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle *
 
 <h2>How to traverse this presentation</h2>
 
-Every horizontal section is a broad subject<br>
+Every horizontal <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[22]</sup> section is a broad subject<br>
 <code>←</code> and <code>→</code> arrows move between them<br>
 Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br>
 --
@@ -19,7 +19,7 @@ Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br
 
 Press <span  style="font-family: keysFont; font-size: 200%;">o</span> to see an **o**verview of the entire presentation.
 
-Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[number]</sup> and can be viewed by mousing over them.
+Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[№]</sup> and can be viewed by mousing over them.
 
 ---
 <section data-background="./Pictures/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG">
