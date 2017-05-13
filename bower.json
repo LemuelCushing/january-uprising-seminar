@@ -1,0 +1,22 @@
+{
+  "name": "January-Uprising",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/LemuelCushing/january-uprising-seminar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vibrant": "*",
+    "darktooltip": "~0.4.0"
+  }
+}

@@ -4,15 +4,21 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
     <title>reveal.js</title>
 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.red-deep_orange.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     <link rel="stylesheet" href="css/reveal.css">
-    <link rel="stylesheet" href="css/theme/black.css">
-
+    <link rel="stylesheet" href="css/theme/blood.css">
     <!-- Theme used for syntax highlighting of code -->
     <link rel="stylesheet" href="lib/css/zenburn.css">
-
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <!--<script src="https://cdn.jsdelivr.net/tipped/4.0.10/js/tipped/tipped.js"></script>-->
+    <!--<script src="./js/opentip-jquery.min"></script>-->
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@0.12.0/dist/tippy.css" />
+    <script src="https://unpkg.com/tippy.js@0.12.0/dist/tippy.min.js"></script>
+    <link rel="stylesheet" href="css/tipped.css">
     <!-- Printing and PDF exports -->
     <script>
         var link = document.createElement('link');
@@ -21,11 +27,30 @@
         link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
         document.getElementsByTagName('head')[0].appendChild(link);
     </script>
+    <style>
+        @font-face {
+            font-family: keysFont;
+            src: url(css/KeyCapsFLF.ttf);
+        }
+        
+        .tp {
+            text-decoration: underline overline dotted;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+            /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;*/
+        }
+    </style>
 </head>
 
 <body>
     <div class="reveal">
         <div class="slides">
+            <!--<section class="title" data-background="./Pictures/Les_polonais_recus_en_Belgique.jpg">
+                <p>
+                    <h3 style="color: black;">The Great Emigration</h3>
+                </p>
+                <h4 style="font-size:xx-large;color: white;">Wielka Emigracja</h4>
+            </section>-->
+            </section>
             <section data-markdown="main.md" data-separator="^---" data-separator-vertical="^--">
             </section>
             <section>
@@ -35,8 +60,11 @@
             </section>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
 
     <script src="lib/js/head.min.js"></script>
+
+    <script src="./script.js"></script>
     <script src="js/reveal.js"></script>
 
     <script>
@@ -44,6 +72,11 @@
         // - https://github.com/hakimel/reveal.js#configuration
         // - https://github.com/hakimel/reveal.js#dependencies
         Reveal.initialize({
+            keyboard: {
+                70: function() {
+                    screenfull.toggle()
+                }
+            },
             dependencies: [{
                 src: 'plugin/markdown/marked.js'
             }, {
@@ -57,12 +90,53 @@
                 callback: function() {
                     hljs.initHighlightingOnLoad();
                 }
+            }, {
+                src: 'bower_components/reveal.js-menu/menu.js'
             }],
             markdown: {
                 smartypants: true
+            },
+            menu: {
+                titleSelector: '.title',
+                themes: false,
+                transitions: false,
+                custom: [{
+                    title: "Bibliography",
+                    icon: "<i class='fa fa-book'></i>",
+                    src: "http://127.0.0.1:4000/PolishUprisingSeminar/bibliography/"
+                }]
             }
         });
+        // Reveal.configure({
+        //     keyboard: {
+        //         32: function() {
+        //             // screenfull.toggle();
+        //             console.log("space")
+        //         }
+        //     }
+        // });
 
+        Reveal.addEventListener('ready', function(event) {
+            // event.currentSlide, event.indexh, event.indexv
+            new Tippy('.tp', {
+                    interactive: true,
+                    animation: 'perspective',
+                    size: 'big'
+
+                })
+                // Tipped.create('.tp', {
+                //     size: 'huge',
+                //     behavior: 'sticky'
+                // });
+            document.getElementById('button').addEventListener('click', () => {
+                if (screenfull.enabled) {
+                    screenfull.toggle();
+                    // screenfull.request();
+                } else {
+                    console.log("On No!")
+                }
+            });
+        });
         Reveal.addEventListener('fragmentshown', function(event) {
             // console.log(event.fragment)
         });

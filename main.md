@@ -1,10 +1,74 @@
-<!-- .slide: data-background="#FDEEA1" -->
+ 
 
+<h3>How to traverse this presentation</h3>
 
-# Test13 
+The presentation is best views in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
+
+Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle **f**ullscreen at any time<br>
+
+#### press <code>↓</code> now
+--
+
+<h2>How to traverse this presentation</h2>
+
+Every horizontal section is a broad subject<br>
+<code>←</code> and <code>→</code> arrows move between them<br>
+Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br>
+--
+<h2>How to traverse this presentation</h2>
+
+Press <span  style="font-family: keysFont; font-size: 200%;">o</span> to see an **o**verview of the entire presentation.
+
+Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[number]</sup> and can be viewed by mousing over them.
 
 ---
-# The Partition of poland
+<section data-background="./Pictures/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG">
+    <h1 style="color: black;font-size:250%">The January Uprising <br> 1863 - 1864</h1>
+</section>
+
+---
+
+### The Partitions of poland
+
+<div>
+  <p class="tp" title="A lecture delivered in 1924 entitled Rok 1863 [The Year 1863]; '6zef Pilsudski o poostaniu 1863 roku [Jbzef Pilsudski on the January upri8ing] (London, 1963), p. 153.">I have a tooltip</p>
+</div>
+
+
+
+The greatest crime in modern history" and "the shame of Europe"
+---
+# 1830 rebellion
+<span class="tp" title="Second tooltip">I also have a tooltip</span>
+---
+# Great immigration
+---
+interim period
+---
+1861 Warsaw Upheavals
+---
+^It's immidiate political consequences
+---
+The rise of political, revolutionary and secret societies (And their pre-history)
+---
+The Red and White factions
+---
+January Uprising
+[..?]
+
+The underground government
+Pibudski: "The greatness of our nation in the great epoch of 1863 consisted in its government, which, unknown by name, was respected and obeyed in a manner that should make all countries and all nations jealous"
+
+
+---
+The Polish proffesional revolutionary exiles
+---
+The uprising in the international arena
+---
+The diplomatic impact of the uprising on the American Civil War
+
+---
+
 
 Adam Jerzy Czartoryski Also known as Adam George Czartoryski in English; 14 January 1770 – 15 July 1861
 
