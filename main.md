@@ -1,5 +1,5 @@
- 
 
+<!--.slide: class="no-print"-->
 <h3>How to traverse this presentation</h3>
 
 The presentation is best views in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.

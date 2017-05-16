@@ -20,6 +20,10 @@
     <link rel="stylesheet" href="https://unpkg.com/tippy.js@0.12.0/dist/tippy.css" />
     <script src="https://unpkg.com/tippy.js@0.12.0/dist/tippy.min.js"></script>
     <link rel="stylesheet" href="css/tipped.css">
+    <!--<script src="https//cdn.jsdelivr.net/jquery.loadingoverlay/latest/loadingoverlay.min.js"></script>
+    <script src="https//cdn.jsdelivr.net/jquery.loadingoverlay/latest/loadingoverlay_progress.min.js"></script>-->
+    <!--<script src="./js/spin.min.js"></script>-->
+    <script src="./script.js"></script>
     <!-- Printing and PDF exports -->
     <script>
         var link = document.createElement('link');
@@ -45,10 +49,34 @@
             text-shadow: rgb(163, 57, 57) 2px 4px 6px !important;
             /*text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red !important;*/
         }
+        
+        #loader-wrapper .loader-section {
+            position: fixed;
+            top: 0;
+            width: 51%;
+            height: 100%;
+            background: #222222;
+            z-index: 1000;
+        }
+        
+        #loader-wrapper .loader-section.section-left {
+            left: 0;
+        }
+        
+        #loader-wrapper .loader-section.section-right {
+            right: 0;
+        }
     </style>
 </head>
 
 <body>
+    <!--<div id="loader-wrapper">
+        <div id="loader"></div>
+
+        <div class="loader-section section-left"></div>
+        <div class="loader-section section-right"></div>
+
+    </div>-->
     <div class="reveal">
         <div class="slides">
             <!--<section class="title" data-background="./Pictures/Les_polonais_recus_en_Belgique.jpg">
@@ -67,23 +95,27 @@
             </section>
         </div>
     </div>
+    <div class="modal">
+        <!-- Place at bottom of page -->
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
 
     <script src="lib/js/head.min.js"></script>
 
-    <script src="./script.js"></script>
     <script src="js/reveal.js"></script>
-
     <script>
         // More info about config & dependencies:
         // - https://github.com/hakimel/reveal.js#configuration
         // - https://github.com/hakimel/reveal.js#dependencies
+        let print = window.location.search.match(/print-pdf/gi)
         Reveal.initialize({
             keyboard: {
                 70: function() {
                     screenfull.toggle()
                 }
             },
+            slideNumber: true,
+            showSlideNumber: 'print',
             dependencies: [{
                 src: 'plugin/markdown/marked.js'
             }, {
@@ -111,6 +143,10 @@
                     title: "Bibliography",
                     icon: "<i class='fa fa-book'></i>",
                     content: '<li class="slide-menu-item"><a href="bib.html">Bibliography</a></li>'
+                }, {
+                    title: 'Print version',
+                    icon: '<i class="fa fa-file-pdf-o" aria-hidden="true"></i>',
+                    content: '<li class="slide-menu-item"><a href="/?print-pdf" target="_blank">PDF version</a></li>'
                 }]
             }
         });
@@ -122,28 +158,37 @@
         //         }
         //     }
         // });
-
         Reveal.addEventListener('ready', function(event) {
+            if (print) {
+                var noPrint = document.getElementsByClassName('no-print');
+                while (noPrint[0]) {
+                    noPrint[0].parentNode.remove()
+                }
+                $('*').css('background', 'transparent')
+                $('.slide-menu-button').remove()
+            }
             // event.currentSlide, event.indexh, event.indexv
             // $(".fancy_title").lettering();
-            new Tippy('.tp', {
-                    interactive: true,
-                    animation: 'perspective',
-                    size: 'big'
+            if (!print) {
 
-                })
-                // Tipped.create('.tp', {
-                //     size: 'huge',
-                //     behavior: 'sticky'
-                // });
-            document.getElementById('button').addEventListener('click', () => {
-                if (screenfull.enabled) {
-                    screenfull.toggle();
-                    // screenfull.request();
-                } else {
-                    console.log("On No!")
-                }
-            });
+                new Tippy('.tp', {
+                        interactive: true,
+                        animation: 'perspective',
+                        size: 'big'
+                    })
+                    // Tipped.create('.tp', {
+                    //     size: 'huge',
+                    //     behavior: 'sticky'
+                    // });
+                document.getElementById('button').addEventListener('click', () => {
+                    if (screenfull.enabled) {
+                        screenfull.toggle();
+                        // screenfull.request();
+                    } else {
+                        console.log("On No!")
+                    }
+                });
+            }
         });
         Reveal.addEventListener('fragmentshown', function(event) {
             // console.log(event.fragment)

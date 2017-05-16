@@ -15,12 +15,14 @@ module.exports = function(grunt) {
                 ' * MIT licensed\n' +
                 ' *\n' +
                 ' * Copyright (C) 2017 Hakim El Hattab, http://hakim.se\n' +
+                ' * Slight modifications for the purpose of this presentation by Lemuel Cushing\n' +
+                ' * Please use Hakim\'s original version linked above.\n' +
                 ' */'
         },
 
-        qunit: {
-            files: ['test/*.html']
-        },
+        // qunit: {
+        //     files: ['test/*.html']
+        // },
 
         uglify: {
             options: {
@@ -32,22 +34,22 @@ module.exports = function(grunt) {
             }
         },
 
-        sass: {
-            core: {
-                files: {
-                    'css/reveal.css': 'css/reveal.scss',
-                }
-            },
-            themes: {
-                files: [{
-                    expand: true,
-                    cwd: 'css/theme/source',
-                    src: ['*.sass', '*.scss'],
-                    dest: 'css/theme',
-                    ext: '.css'
-                }]
-            }
-        },
+        // sass: {
+        //     core: {
+        //         files: {
+        //             'css/reveal.css': 'css/reveal.scss',
+        //         }
+        //     },
+        //     themes: {
+        //         files: [{
+        //             expand: true,
+        //             cwd: 'css/theme/source',
+        //             src: ['*.sass', '*.scss'],
+        //             dest: 'css/theme',
+        //             ext: '.css'
+        //         }]
+        //     }
+        // },
 
         autoprefixer: {
             dist: {
@@ -152,12 +154,12 @@ module.exports = function(grunt) {
     });
 
     // Dependencies
-    grunt.loadNpmTasks('grunt-contrib-qunit');
+    // grunt.loadNpmTasks('grunt-contrib-qunit');
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-watch');
-    grunt.loadNpmTasks('grunt-sass');
+    // grunt.loadNpmTasks('grunt-sass');
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-autoprefixer');
     grunt.loadNpmTasks('grunt-zip');
@@ -167,16 +169,20 @@ module.exports = function(grunt) {
     grunt.registerTask('default', ['css', 'js']);
 
     // JS task
-    grunt.registerTask('js', ['jshint', 'uglify', 'qunit']);
+    // grunt.registerTask('js', ['jshint', 'uglify', 'qunit']);
+    grunt.registerTask('js', ['jshint', 'uglify']);
 
     // Theme CSS
-    grunt.registerTask('css-themes', ['sass:themes']);
+    // grunt.registerTask('css-themes', ['sass:themes']);
+    grunt.registerTask('css-themes');
 
     // Core framework CSS
+    // grunt.registerTask('css-core', ['sass:core', 'autoprefixer', 'cssmin']);
     grunt.registerTask('css-core', ['sass:core', 'autoprefixer', 'cssmin']);
 
     // All CSS
-    grunt.registerTask('css', ['sass', 'autoprefixer', 'cssmin']);
+    // grunt.registerTask('css', ['sass', 'autoprefixer', 'cssmin']);
+    grunt.registerTask('css', ['autoprefixer', 'cssmin']);
 
     // Package presentation to archive
     grunt.registerTask('package', ['default', 'zip']);
