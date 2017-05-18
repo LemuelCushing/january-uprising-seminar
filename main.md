@@ -2,7 +2,7 @@
 <!--.slide: class="no-print"-->
 <h3>How to traverse this presentation</h3>
 
-The presentation is best views in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
+The presentation is {text www.google.com/bobie?idaho=[go]|9} best views in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
 
 Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle **f**ullscreen at any time<br>
 
@@ -31,7 +31,7 @@ Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two
 
 ### The Partitions of Poland
 
-<q>"The Greatest Crime in Modern History"</q> and <q>"The Shame of Europe"</q> <sup class="tp" title="The Alleghanian. (Ebensburg, Pa.), 19 March 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <a href='http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/'>http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/</a>">[1]</sup>
+<q>"The Greatest Crime in Modern History"</q> and <q>"The Shame of Europe"</q> {The Alleghanian. (Ebensburg, Pa.), 19 March 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/ |1}
 ---
 # 1830 Rebellion
 ---

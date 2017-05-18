@@ -1,27 +1,7 @@
 // @ts-check
+let marked = require('./plugin/markdown/marked')
 
-// let log = data => console.log(data)
-
-// let marked = require('./plugin/markdown/marked')
-
-// console.log(marked("and now for some {footnote|2}"))
-// console.log(marked("{footn http://om.np/va Algeria 1296 Ranur Ridge ote|1} and more"))
-// console.log(marked("some **text**"))
-// console.log(marked("some *text*"))
-// console.log(marked("<ht://wd.co.e>"))
-// let getUrl = require("get-urls")
-// let x = require("")
-// let x = "{text blads http://sipuku.gu/hikcomfo eanocea, aeci  p.32  http://joohoitu.il/rupioru  \"the vur\" |98}"
-// let y = "{text on water|2}"
-// let rule = /^\{(.*)\|(\d+?)\}/gm
-//     // let rule2 = /<([^ >]+(@|:\/)[^ >]+)>/
-
-// let anchorme = require("./js/anchorme")
-
-// // log(anchorme(x,{truncate:10}))
-
-// let cap = rule.exec(x)
-// log(anchorme(cap[1],{truncate:[10,10]}))
+console.log(marked("this is a {test}"))
 // // var opts = {
 // //     lines: 7 // The number of lines to draw
 // //         ,
