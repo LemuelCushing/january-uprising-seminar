@@ -2,7 +2,7 @@
 <!--.slide: class="no-print"-->
 <h3>How to traverse this presentation</h3>
 
-The presentation is {text www.google.com/bobie?idaho=[go]|9} best views in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
+The presentation is best views in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
 
 Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle **f**ullscreen at any time<br>
 
