@@ -9,13 +9,13 @@ Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle *
 #### press <code>↓</code> now
 --
 
-<h2>How to traverse this presentation</h2>
+<h3>How to traverse this presentation</h3>
 
 Every horizontal section is a broad subject<br>
 <code>←</code> and <code>→</code> arrows move between them<br>
 Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br>
 --
-<h2>How to traverse this presentation</h2>
+<h3>How to traverse this presentation</h3>
 
 Press <span  style="font-family: keysFont; font-size: 200%;">o</span> to see an **o**verview of the entire presentation.
 
@@ -32,6 +32,32 @@ Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two
 ### The Partitions of Poland
 
 <q>"The Greatest Crime in Modern History"</q> and <q>"The Shame of Europe"</q> {The Alleghanian. (Ebensburg, Pa.), 19 March 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/ |1}
+
+--
+<!--.slide: data-background-image="/Pictures/2017-05-22-19-04-53.png"-->
+
+#### First Partition 1772 
+
+--
+<!--.slide: data-background-image="/Pictures/2017-05-22-19-04-53.png" class="blur"-->
+
+![Partitions](/Pictures/2017-05-22-19-04-53.png#cnt)
+
+--
+<!--.slide: data-background-image="/Pictures/2017-05-23-16-22-19.png" class="blur"-->
+
+![Polish-Lithuanian Commonwealth in 1619](/Pictures/2017-05-23-16-22-19.png#cnt)
+
+--
+
+The polish-lithuanian Commonwealth was a powerful nation in the 16th and early 17th century and it was able to defend itself against their powerful neighbors.
+
+
+It was one of the largest and most populous countries of 16th- and 17th-century Europe. {Wandycz, Piotr Stefan. The Price of Freedom : A History of East Central Europe from the Middle Ages to the Present. Routledge, 2001. pp.66 |  4}
+
+however by the middle of the 17th century a string of disastrous Wars left their economy in tatters and their political system in turmoil.
+-- 
+Nikolay Karamzin wrote: "Let foreigners condemn the partition of Poland - we took what was ours.." {Karamzin, Nikolaĭ Mikhaĭlovich,. Karamzin’s Memoir on Ancient and Modern Russia :a Translation and Analysis /. New ed. /. Ann Arbor :, 2005. http://hdl.handle.net/2027/mdp.39015062623338. p.132 | 32}
 ---
 # 1830 Rebellion
 ---
@@ -50,18 +76,19 @@ Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two
 ## January Uprising
 [..?]
 
+Having read about the beginning of the revolt from newspapers, Dostoevsky began his private notebook of 1863 with the question: ‘‘What is the real war?— The Polish war is the war of two Christianities [Christian denominations— N.P.], this is the beginning of the future war of Russian Orthodox Christianity with Catholicism, in other words—of the Russian genius and European civilization. Here the progress is ours—and not an official progress (in agreement with the Dutch formula), but the peoples’ progress.’’ { F. M. Dostoevskii, Polnoe sobranie sochinenii v tridtsati tomakh (Leningrad: Nauka, 1972–90), 20:170 <br> Quoted in: Perlina, Nina. “Dostoevsky and His Polish Fellow Prisoners from the House of the Dead.” In Polish Encounters, Russian Identity, edited by David L. Ransel and Bozena Shallcross, 100–109. Bloomington, IN: Indiana University Press, 2005. p.100 | 12}
 ---
 
 ## The underground government
-Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in its government, which, unknown by name, was respected and obeyed in a manner that should make all countries and all nations jealous" <sup class="tp" title="A lecture delivered in 1924 entitled Rok 1863 [The Year 1863]; 'Józef Piłsudski o powstaniu 1863 roku [Józef Piłsudski on the January uprising] (London, 1963), p. 153.">[1]</sup>
+Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in its government, which, unknown by name, was respected and obeyed in a manner that should make all countries and all nations jealous" {A lecture delivered in 1924 entitled Rok 1863 [The Year 1863] Józef Piłsudski o powstaniu 1863 roku [Józef Piłsudski on the January uprising] (London, 1963), p. 153. |1}
 
 --
 
 Langiewicz - The (last?) dictator
 
---
+---
 
-Jozef Wysocki - the emigre officer (?) <sup class="tp" title="Leslie p.208">[1]</sup>
+Jozef Wysocki - the emigre officer (?) {Leslie p.208 | 1}
 
 ---
 
@@ -69,17 +96,38 @@ Jozef Wysocki - the emigre officer (?) <sup class="tp" title="Leslie p.208">[1]<
 
 <q>
 I can only say that the insurrection, however much of heroism and patriotic devotion it has subsequently embodied, appears to me to have been to a great extent artificially stimulated by the wonderfully dextrous managment of the press and the telegraph and by a social machinery which no other nation than one of generations of illustrious exiles can command.
- <cite> - Henry Hotze <sup class="tp" title="The American Cofederacy's chief publicity agent in England, in a letter to J.P.Benjamin. Dec. 26, 1863. <br> Cited by Kutolowski, John F., The West And Poland, ect' p.85">[1]</sup> </cite>
+ <cite> - Henry Hotze {The American Cofederacy's chief publicity agent in England, in a letter to J.P.Benjamin. Dec. 26, 1863. Cited by Kutolowski, John F., The West And Poland, ect' p.85 | 2} </cite>
 </q>
+
+#### The Polish Propoganda
+
+'The Russian Consul General had earlier writen letters to the _Morning Post_, May 16 and 21, countering the storis of Russian atrocities. at least one Russian writer pressed the (Russian?) Minister of War in June to increase Russian propoganda: "It is known the the Polish party spends enormous sums on attracting all the organs of the public opinion in Western Europe to its side and that it organized what could be called a whole factory for news and articles..." {McCauley, Martin, and Peter Waldron. The Emergence of the Modern Russian State, 1855–81. London: Palgrave Macmillan UK, 1988 <br> p.163 <br> Cited by F. Kutolowski, John. “Mid-Victorian Public Opinion, Polish Propaganda, and the Uprising of 1863.” In The West And Poland: Essays on Governmental and Public Responses to the Polish National Movement, 1861-1864, 153–82. Michigan: University of Michigan, 2000. p.113 | 1 }
 ---
 
 ## The uprising in the international arena
+
+![Parliament proceedings are unimportant](Pictures\2017-05-19-15-11-43.png)
+{Daily Ohio statesman. (Columbus, Ohio), 02 April 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/lccn/sn84028645/1863-04-02/ed-1/seq-1/>|1}
 
 ---
 
 ## The diplomatic impact of the uprising on the American Civil War
 
 ---
+
+## Polish-Americans
+
+Count **Adam Gurowski** (born in the Kalisz, Poland, 10 September 1805; died in Washington, D.C., 4 May 1866) was a Polish-born author who emigrated to the United States in 1849.
+
+### Nos Amis Les Cosaques! {Hailprin, Michael. “Nos Amis Les Cosaques.” The Continental Monthly: Devoted to Literature and National Policy 5, no. 2 (1864): 216–21. http://ebooks.library.cornell.edu/cgi/t/text/pageviewer-idx?c=cont;cc=cont;g=moagrp;xc=1;rgn=full%20text;idno=cont0005-2;didno=cont0005-2;node=cont0005-2%3A11;view=image;seq=0222. | 1}
+
+--
+
+By one M. Haielprin, a prolific Jewish abolitionist and scholar.  In 1864 he contributed a paper entitled " Nos Amis les Cosaques " to the Boston Continental Monthly, a periodical founded by the poet Charles G. Leland, whose acquaintance he had made in Philadelphia. {Adler, Cyrus, and Gustav Pollak. Michael Heilprin and His Sons: A Biography. New York: Dodd, Mead and company, 1912. doi:10.2307/1450943. p.192 |3}
+
+--
+
+The Continental Monthly, a magazine owned by Mrs. Martha Cook, one of the rare American workers for the Polish cause at the time, published two articles in 1864. One, printed in the January issue under the French title "Nos Amis les Cosaques/" was an indictment of America's Russophilia by Michael Heilprin, the son of a well-known rabbinical family and a secretary of the Washington Polish Committee.{Wieczerzak, Joseph. “Pre-and Proto-Ethnics: Poles in the United States Before the Immigration ‘After Bread.’” The Polish Review 21, no. 3 (1976): 7–38. http://www.jstor.org/stable/25777399. p.34 |2}
 
 # Med
 
@@ -388,7 +436,7 @@ The Government of England has made a demonstration in favor of the Poles that ca
 ---
 
 
-It may be said to be equally so in France. The Emperor of deeds has said nothing, and,-as yet, does nothing; but French sentiment is decidedly in sympathy with Poland. The ominous mutterings of a muzzled press; the gossip in the saloons ; the debates in the national assemblies; all indicate coldness to Russia and kindness to the suffering people now being massacred by her armies. Austria has taken a high stand, and washes her hands of a transaction which is at best but little more than the natural effect of the perfidy of a former Austrian minister. Prussia has made herself virtually an ally of Russia, by entering into a convention for the purpose of preventing Polish rebels taking refuge in her dominions, and agreeing to return them to the Russian authority. Whether Prussia which, notwithstanding the vacillation and obstinacy of her present ruler, is a proud and just nation, and strongly devoted to the liberal sentiment of Europe -  will consent to become a minion of an autocracy and the instrument of a tyranny which the world cannot equal, remains to be seen. The King of Prussia has done much to estrange his people, and many wise men fear an outbreak against his own authority, and we think it would be well for him not to court additional odium by his conduct in this unfortunate insurrection. Thus far, the insurrection has been little more than a series of outbreaks and massacres, although some of the writers of European journals state that the conduct of the Poles has been marked by humanity and discretion; that they have organized armies, and, under the leadership of a distinguished Polish nobleman, are fast becoming proficient in the art of war.** If this contest should be permitted to continue, we do not see how anything can result but the utter annihilation of the Polish nationality.** It was, indeed, the attempt to carry out this design, by forcing a merciless and unjust conscription, that led to the present insurrection. It is possible that the combined Powers of Europe may present to Russia such a remonstrance that she will desist from her present sad design, and **it is by no means impossible that, out of the revolution and excitement which despairing Poland has created in her effort to become free, the great crime of its partition, which has been for a generation the shame of Europe, will be redressed. As friends of liberty, we shall look upon such result as one of the most pleasant events of the age.** <sup class="tp" title="The Alleghanian. (Ebensburg, Pa.), 19 March 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <a href='http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/'>http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/</a>">[1]</sup>
+It may be said to be equally so in France. The Emperor of deeds has said nothing, and,-as yet, does nothing; but French sentiment is decidedly in sympathy with Poland. The ominous mutterings of a muzzled press; the gossip in the saloons ; the debates in the national assemblies; all indicate coldness to Russia and kindness to the suffering people now being massacred by her armies. Austria has taken a high stand, and washes her hands of a transaction which is at best but little more than the natural effect of the perfidy of a former Austrian minister. Prussia has made herself virtually an ally of Russia, by entering into a convention for the purpose of preventing Polish rebels taking refuge in her dominions, and agreeing to return them to the Russian authority. Whether Prussia which, notwithstanding the vacillation and obstinacy of her present ruler, is a proud and just nation, and strongly devoted to the liberal sentiment of Europe -  will consent to become a minion of an autocracy and the instrument of a tyranny which the world cannot equal, remains to be seen. The King of Prussia has done much to estrange his people, and many wise men fear an outbreak against his own authority, and we think it would be well for him not to court additional odium by his conduct in this unfortunate insurrection. Thus far, the insurrection has been little more than a series of outbreaks and massacres, although some of the writers of European journals state that the conduct of the Poles has been marked by humanity and discretion; that they have organized armies, and, under the leadership of a distinguished Polish nobleman, are fast becoming proficient in the art of war.** If this contest should be permitted to continue, we do not see how anything can result but the utter annihilation of the Polish nationality.** It was, indeed, the attempt to carry out this design, by forcing a merciless and unjust conscription, that led to the present insurrection. It is possible that the combined Powers of Europe may present to Russia such a remonstrance that she will desist from her present sad design, and **it is by no means impossible that, out of the revolution and excitement which despairing Poland has created in her effort to become free, the great crime of its partition, which has been for a generation the shame of Europe, will be redressed. As friends of liberty, we shall look upon such result as one of the most pleasant events of the age.** {The Alleghanian. (Ebensburg, Pa.), 19 March 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. http://chroniclingamerica.loc.gov/lccn/sn85054845/1863-03-19/ed-1/seq-2/ |1}
 
 
 

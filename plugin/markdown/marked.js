@@ -4,8 +4,7 @@
  * https://github.com/chjj/marked
  */
 // let anchorme = require("../../js/anchorme")
-
-;
+let fnCount = 0;
 (function() {
 
     /**
@@ -451,7 +450,7 @@
         br: /^ {2,}\n(?!\s*$)/,
         del: noop,
         text: /^[\s\S]+?(?=[\\<!\[_*`\{\}]| {2,}\n|$)/,
-        footnote: /^\{(.*)\|(\d+?)\}/
+        footnote: /^\{(.*)\|(\s*\d+?)\}/
     };
 
     inline._inside = /(?:\[[^\]]*\]|[^\[\]]|\](?=[^\[]*\]))*/;
@@ -570,7 +569,9 @@
                     // lnk.forEach((a,b,c)=>{log(a),log(b),log(c)})
                     // lnk.forEach(link => console.log("<a href='" + link + "'><sup>link</sup></a>"))
                     // }
-                cap[1] = anchorme(cap[1], { truncate: [10, 10] })
+                    // cap[1] = cap[1].replace(/'/g, "\'")
+                    // cap[1] = cap[1].replace(/;/g, "")
+                cap[1] = anchorme(cap[1], { truncate: [20, 7] })
                 out += this.renderer.footnote(cap[1], cap[2])
                 continue;
             }
@@ -899,7 +900,11 @@
     };
 
     Renderer.prototype.footnote = function(title, number) {
-        return "<sup class='tp' title='" + title + "'>[" + number + "]</sup>"
+        // return "<sup class='tp' title='" + title.replace(/(\sp|\spp)\.\d+$/, "<br>$&") + "'>[" + number.replace(/\s*/g, "") + "]</sup>"
+        fnCount++
+        let retString = "<sup class='tp' title='" + title.replace(/'/g, "’").replace(/(\sp|\spp)\.\s?((\d+)-(\d+)|\d+|)\s+$/, "<br>$&") + "'>[" + fnCount + "]</sup>"
+            // console.log('retString: ', retString);
+        return retString
     }
     Renderer.prototype.text = function(text) {
         return text;
@@ -1154,6 +1159,8 @@
      */
 
     function marked(src, opt, callback) {
+
+
         if (callback || typeof opt === 'function') {
             if (!callback) {
                 callback = opt;
