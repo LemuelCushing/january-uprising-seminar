@@ -2,6 +2,8 @@
  * marked - a markdown parser
  * Copyright (c) 2011-2014, Christopher Jeffrey. (MIT Licensed)
  * https://github.com/chjj/marked
+ * 
+ * Tweakes by Lemuel Cushing
  */
 // let anchorme = require("../../js/anchorme")
 let fnCount = 0;
@@ -571,7 +573,7 @@ let fnCount = 0;
                     // }
                     // cap[1] = cap[1].replace(/'/g, "\'")
                     // cap[1] = cap[1].replace(/;/g, "")
-                cap[1] = anchorme(cap[1], { truncate: [20, 7] })
+                cap[1] = anchorme(cap[1], { truncate: [20, 7], attributes: [{ name: "target", value: "_blank" }] })
                 out += this.renderer.footnote(cap[1], cap[2])
                 continue;
             }
@@ -891,7 +893,7 @@ let fnCount = 0;
     };
 
     Renderer.prototype.image = function(href, title, text) {
-        var out = '<img src="' + href + '" alt="' + text + '"';
+        var out = '<img data-src="' + href + '" alt="' + text + '"';
         if (title) {
             out += ' title="' + title + '"';
         }
