@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
 @font-face {
     font-family: keysFont;
-    src: url(/css/KeyCapsFLF.ttf);
+    src: url(./KeyCapsFLF.ttf);
 }
 
 .tp {
