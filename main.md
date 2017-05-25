@@ -1030,9 +1030,8 @@ I can only say that the insurrection, however much of heroism and patriotic devo
 
 #### The Polish Propoganda
 
--
+'The Russian Consul General had earlier written letters to the _Morning Post_, May 16 and 21, countering the stories of Russian atrocities. at least one Russian writer pressed the (Russian?) Minister of War in June to increase Russian propoganda: "It is known the the Polish party spends enormous sums on attracting all the organs of the public opinion in Western Europe to its side and that it organized what could be called a whole factory for news and articles..." {McCauley, Martin, and Peter Waldron. The Emergence of the Modern Russian State, 1855–81. London: Palgrave Macmillan UK, 1988 <br> p.163 <br> Cited by F. Kutolowski, John. “Mid-Victorian Public Opinion, Polish Propaganda, and the Uprising of 1863.” In The West And Poland: Essays on Governmental and Public Responses to the Polish National Movement, 1861-1864, 153–82. Michigan: University of Michigan, 2000. p.113 | 1}
 
-'The Russian Consul General had earlier written letters to the _Morning Post_, May 16 and 21, countering the stories of Russian atrocities. at least one Russian writer pressed the (Russian?) Minister of War in June to increase Russian propoganda: "It is known the the Polish party spends enormous sums on attracting all the organs of the public opinion in Western Europe to its side and that it organized what could be called a whole factory for news and articles..." {McCauley, Martin, and Peter Waldron. The Emergence of the Modern Russian State, 1855–81. London: Palgrave Macmillan UK, 1988 <br> p.163 <br> Cited by F. Kutolowski, John. “Mid-Victorian Public Opinion, Polish Propaganda, and the Uprising of 1863.” In The West And Poland: Essays on Governmental and Public Responses to the Polish National Movement, 1861-1864, 153–82. Michigan: University of Michigan, 2000. p.113 | 1 }
 ---
 
 ## The uprising in the international arena
