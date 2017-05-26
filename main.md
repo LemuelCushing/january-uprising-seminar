@@ -1065,3 +1065,21 @@ By one M. Haielprin, a prolific Jewish abolitionist and scholar.  In 1864 he con
 --
 
 The Continental Monthly, a magazine owned by Mrs. Martha Cook, one of the rare American workers for the Polish cause at the time, published two articles in 1864. One, printed in the January issue under the French title "Nos Amis les Cosaques/" was an indictment of America's Russophilia by Michael Heilprin, the son of a well-known rabbinical family and a secretary of the Washington Polish Committee.{Wieczerzak, Joseph. “Pre-and Proto-Ethnics: Poles in the United States Before the Immigration ‘After Bread.’” The Polish Review 21, no. 3 (1976): 7–38. http://www.jstor.org/stable/25777399. p.34 |2}
+
+# 1830-31 Uprising
+November Uprising
+
+Walerian Lukasinski - (15 April 1786 in Warsaw – 27 January 1868 in Shlisselburg) was a Polish officer and political activist. Sentenced by Russian Imperial authorities to 14 years' imprisonment, he was never released and died after 46 years of solitary incarceration, becoming a symbol of the Polish struggle for independence.
+
+After November Uprising Tsar Nicholas I of Russia became convinced that even imprisoned he must be one of the main activists of the Polish underground (when in fact he had no communications with the outside world and was not involved in any such activities) and moved to a secure facility in Warsaw. During the November Uprising (1830–1831) he was taken with the Russian troops retreating from Warsaw and put in one of the most secure prisons in Russia, the Shlisselburg.[5] The tsar had given orders that he should not be allowed to speak to any other prisoners or guards; that he was to be kept there even after his sentence expired; and that his family was to remain unaware of his fate. Further, most of the commanders of the Shlisselburg prison were to be unaware of the exact identity of the prisoner.
+
+---
+
+
+American Reactions to the Polish Insurrection of 1863
+Author(s): Joseph Wieczerzak
+Source: Polish American Studies, Vol. 22, No. 2 (Jul. - Dec., 1965), pp. 90-98
+
+> Much was added to the legacy over three decades before when, at the time of the Polish November Insurrection, 
+
+---
