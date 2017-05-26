@@ -1,5 +1,5 @@
 
-<section data-background="../pics/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG" class="text-bg-bw">
+<section data-background="./pics/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG" class="text-bg-bw">
 <div style="font-size:50%;z-index: 1;position: absolute;left:-150px;top: -20px;background-color:rgba(0, 0, 0, .56);padding:15px;text-align:left: left;font-family: 'Marcellus SC', serif;border-radius: 5px;">
 <img data-src="./pics/tau_logo.svg#cnt2" style="filter:invert(100%);"> <br>
 The Lester and Sally Entin<br> 
@@ -75,7 +75,7 @@ From there, you can navigate the slide or go the <i class='fa fa-book'></i> **Bi
 
 <!--.slide: data-background-image="./pics/plcw_stratas.png" class="blur"-->
 
-![](Pictures\plcw_stratas.png)
+![](./pics/plcw_stratas.png)
 
 <div class="txt-overlay fragment"><span class="txt-overlay">
 Some social strata in the Polish–Lithuanian Commonwealth's society – 1655. <br> From the left: Jew, Barber surgeon, Painter, Butcher, Musician, Tailor, Barmaid, Pharmacist, Shoemaker, Goldsmith, Merchant and Armenian.
@@ -104,7 +104,7 @@ Poland’s size was progressively reduced until the state of Poland ceased to ex
 
 <!--.slide: data-background-image="./pics/2017-05-22-19-04-53.png" class="blur"-->
 
-<img data-src="Pictures\Partitions_of_Poland_bw_map.png#cnt" style="width:500px" />
+<img data-src="./pics/Partitions_of_Poland_bw_map.png#cnt" style="width:500px" />
 
 --
 
@@ -115,7 +115,7 @@ For instance, they were mentioned in _"Il Canto degli Italiani"_, the Italian Na
 --
 <!--.slide: data-background-image="./pics/burke_letter.png" class="text-bg-txt" -->
 
-![](Pictures\burke_portrait.png) <!--.element: style="width: 200px; float: right;z-index: 100;right:-50px;position: relative;"-->
+![](./pics/burke_portrait.png) <!--.element: style="width: 200px; float: right;z-index: 100;right:-50px;position: relative;"-->
 <blockquote>
 No wise or honest man,” wrote **Edmund Burke**, “can approve of that partition, or can contemplate it without prognosticating great mischief from it to all countries at some future time.{Burke, Edmund. <i> A letter from the Rt. Honourable Edmund Burke to His Grace the Duke of Portland </i>, <span style="font-size: 50%;"> on the conduct of the minority in Parliament. Containing fifty-four articles of impeachment against the Rt. Hon. C. J. Fox.  [microform] From the original copy, in the possession of the noble duke  printed for the editor, and sold by J. Owen London  1797 http://purl.ox.ac.uk/ota/4019 </span> p.31 |2} 
 </blockquote>
@@ -123,7 +123,7 @@ No wise or honest man,” wrote **Edmund Burke**, “can approve of that partiti
 --
 <!--.slide: data-background-image="./pics/burke_letter.png" class="text-bg-txt" -->
 
-![](Pictures\burke_portrait.png) <!--.element: style="width: 200px; float: right;"-->
+![](./pics/burke_portrait.png) <!--.element: style="width: 200px; float: right;"-->
 “No wise or honest man,” wrote **Edmund Burke**, “can approve of that partition, or can contemplate it without prognosticating great mischief from it to all countries at some future time.”{Burke, Edmund. <i> A letter from the Rt. Honourable Edmund Burke to His Grace the Duke of Portland </i>, <span style="font-size: 50%;"> on the conduct of the minority in Parliament. Containing fifty-four articles of impeachment against the Rt. Hon. C. J. Fox.  [microform] From the original copy, in the possession of the noble duke  printed for the editor, and sold by J. Owen London  1797 http://purl.ox.ac.uk/ota/4019 </span> p.31 |2} 
 
 ###### Interesting to note  
@@ -223,7 +223,7 @@ After 1825 the Polish Sejm was forced to hold its sessions in secret, while Nich
 --
 <!--.slide: data-background-image="./pics/warsawInfantry.png" class="text-bg-bw"-->
 
-![](Pictures\Piotr_Wysocki.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
+![](./pics/Piotr_Wysocki.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 
 In 1828, under the command of Lt. **Piotr Wysocki** of the Warsaw School of Cadets, a conspiracy to assassinate the the Grand Duke Constantine was hatched. 
 
@@ -314,7 +314,7 @@ After crushing an insurrection in 1831, the Congress Kingdom's autonomy was abol
 ## The Great Immigration
 ### Wielka Emigracja
 
-![](Pictures\TheGreatImmigration.png#cnt)
+![](./pics/TheGreatImmigration.png#cnt)
 
 --
 <!--.slide: data-background-image="./pics/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
@@ -432,7 +432,7 @@ Oh! sacred Truth! thy triumph ceas'd awhile,
 --
 <!--.slide: data-background-image="./pics/songOfWarsaw.png" class="text-bg-bw"-->
 
-![](Pictures\casimir.png) <!--.element: style="width: 200px; float: right;"-->
+![](./pics/casimir.png) <!--.element: style="width: 200px; float: right;"-->
 #### "Warszawianka 1831 roku", 
 ##### "La Varsovienne" <br> ("The Song of Warsaw 1831") 
 
@@ -488,7 +488,7 @@ A wave of Polonophilia swept over Jacksonian America; when hardly a day went by 
 --
 <!--.slide: data-background-image="./pics/1832_london_conference.png" class="blur"-->
 
-![](Pictures\1832_london_conference.png#cnt)
+![](./pics/1832_london_conference.png#cnt)
 
 <div class="txt-overlay fragment"><span class="txt-overlay">
 *Honoré Daumier*'s cartoon of the 1832 *London Conference*, with France depicted as a timid hare in front of other powers <br> (Poland is the female figure trampled upon by Russia)
@@ -511,7 +511,7 @@ was the ominous phrase of the time.
 --
 <!-- .slide: data-background="white" -->
 
-<img data-src="Pictures\60_ordre_regne_a_Varsovie_1831.png#cnt2" width="400">
+<img data-src="./pics/60_ordre_regne_a_Varsovie_1831.png#cnt2" width="400">
 
 
 <div class="txt-overlay fragment"><span class="txt-overlay">
@@ -539,7 +539,7 @@ Up until the first turmoils in Warsaw, one could say that the Russian occupation
 #### Michaił Dymitrowicz Gorczakow, 
 #####  Михаил Димитрович Горчаков
 
-![](Pictures\Gorczakow.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
+![](./pics/Gorczakow.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 
 Appointed in 1856 by Alexander II as the governor of the Polish Kingdom .
 --
@@ -578,7 +578,7 @@ Gorczakow, fearing that further clashes could erupt into open fighting,  first w
 --
 <!--.slide: data-background-image="./pics/DelegacjaMiejska.png" class="text-bg-bw blur"-->
 
-![](Pictures\DelegacjaMiejska.png#cnt)
+![](./pics/DelegacjaMiejska.png#cnt)
 
 --
 <!--.slide: data-background-image="./pics/DelegacjaMiejska.png" class="text-bg-bw"-->
@@ -620,7 +620,7 @@ At this point in the political saga appeared Margrave **Aleksander Wielopolski**
 --
 ### Alexander Wielopolski (1803-1877)
 
-![Wielopolski](Pictures/Aleksander Waszkowski.jpg) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
+![Wielopolski](./pics/Aleksander Waszkowski.jpg) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 
 Appointed chief admin in 1861 by Alexander II. Led an agenda of limiting Polish autonomy through an 1832 statute, drafting Polish civil servants into the imperial bureaucracy.
 
@@ -634,14 +634,14 @@ Founded in November 24, 1857 by Count **Andrzej Artur Zamoyski** (2 April 1800 �
 
 Disbanded by Aleksander Wielopolski on April 6, 1861 
 
-![](Pictures\Zamoyski.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
+![](./pics/Zamoyski.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 
 The disbanding sparked a demonstration in Castle Square in Warsaw which, in the Polish public opinion, though is doubtful corrabarated by the actual events, saw 100 people killed and approximately 200 wounded.
 
 --
 <!--.slide: data-background-image="./pics/8April1861-CastleSqr.png" class="blur"-->
 
-![](Pictures\8April1861-CastleSqr.png#cnt)
+![](./pics/8April1861-CastleSqr.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Russian army shoots at demonstrators at the Castle Square in Warsaw , April 8, 1861 years
@@ -655,7 +655,7 @@ After a series of patriotic riots, the Russian Namestnik General Karl Lambert, i
 --
 <!--.slide: data-background-image="./pics/Warsaw1861.jpg" class="blur"-->
 
-![1861 Warsaw Martial Law](../pics/Warsaw1861.jpg#cnt2)
+![1861 Warsaw Martial Law](./pics/Warsaw1861.jpg#cnt2)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Russian army in Warsaw during martial law 1861
@@ -664,7 +664,7 @@ Russian army in Warsaw during martial law 1861
 --
 <!--.slide: data-background-image="./pics/Kosciuszko.png" class="text-bg-clr"-->
 
-<img data-src="../pics/kosciusz-1400882257.png" style="width: 300px; float: left;left:-50px;z-index: 100;position: relative;"> 
+<img data-src="./pics/kosciusz-1400882257.png" style="width: 300px; float: left;left:-50px;z-index: 100;position: relative;"> 
 **15 October 1861** - <br>
 A protest on anniversiry of the death of Tadeusz Kościuszko (1817) - whose failed uprising in 1794 against the Russian opressors made him a martyr of the Polish national cause - turned violent, when crown soldiors fired shots at the agitated crowd. 
 
@@ -778,14 +778,14 @@ In general, the Reds represented liberal intellectuals while the Whites based th
 --
 ### Nikolay Milyutin (1818 – 1872)
 
-![](Pictures\Nikolay_Milyutin.png) <!--.element: style="width: 200px; float: left;left:-50px;z-index: 100;position: relative;"-->
+![](./pics/Nikolay_Milyutin.png) <!--.element: style="width: 200px; float: left;left:-50px;z-index: 100;position: relative;"-->
 
 The famous architect of Alexander II's liberal reforms was dispached to Poland to implement reforms. He orchestrated an emancipation of the peasantry at the expense of the nationalist landowners and the expulsion of Roman Catholic priests from schools. Russificaion on the one hand, and appeasment of the lower-classes on the other.
 --
 
 <!--.slide: data-background-image="./pics/conscription.png" class="blur"-->
 
-![](Pictures\conscription.png#cnt)
+![](./pics/conscription.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 The forced conscription
@@ -817,7 +817,7 @@ Proclamation of the <i>Polish National Government</i>
 --
 <!--.slide: data-background-image="./pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
-![Maria Ilnicka](Pictures/MariaIlnicka2.jpg#cnt)
+![Maria Ilnicka](./pics/MariaIlnicka2.jpg#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Maria Ilnicka - Wrote the 1863 manifesto 
@@ -825,7 +825,7 @@ Maria Ilnicka - Wrote the 1863 manifesto
 --
 <!--.slide: data-background-image="./pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
-![Maria Ilnicka](Pictures/MariaIlnicka.jpg#cnt) 
+![Maria Ilnicka](./pics/MariaIlnicka.jpg#cnt) 
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Maria Ilnicka - Wrote the 1863 manifesto 
@@ -835,7 +835,7 @@ Maria Ilnicka - Wrote the 1863 manifesto
 
 ### Ludwik Mierosławski 
 
-![](Pictures\Mieroslawski.png) <!--.element: style="width: 400px; float: left;left:-50px;z-index: 100;position: relative;"-->
+![](./pics/Mieroslawski.png) <!--.element: style="width: 400px; float: left;left:-50px;z-index: 100;position: relative;"-->
 
 The first of four dictators of the Uprising. Took part in the November Uprising of the 1830s, as well as fought for the insurgents in Baden and in the Electorate of the Palatinate 1848-49.
 A member of the Polish Democratic Society.
@@ -848,7 +848,7 @@ Having read about the beginning of the revolt from newspapers, Dostoevsky began 
 --
 <!--.slide: data-background-image="./pics/Rok_1863_Polonia.jpg" class="blur"-->
 
-![Rok_1863_Polonia.jpg](../pics/Rok_1863_Polonia.jpg#cnt)
+![Rok_1863_Polonia.jpg](./pics/Rok_1863_Polonia.jpg#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 "Polonia (Poland), 1863", by Jan Matejko, 1864, oil on canvas, 156 × 232 cm, National Museum, Kraków. Pictured is the aftermath of the failed January 1863 Uprising. Captives await transportation to Siberia. Russian officers and soldiers supervise a blacksmith placing shackles on a woman (Polonia). The blonde girl next to her represents Lithuania.
@@ -858,7 +858,7 @@ Having read about the beginning of the revolt from newspapers, Dostoevsky began 
 --
 <!--.slide: data-background-image="./pics/forging-scythes.png" class="blur"-->
 
-![](Pictures\forging-scythes.png#cnt)
+![](./pics/forging-scythes.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Forging of war scythes. 
@@ -879,7 +879,7 @@ In the background, two insurgents armed with guns in a four-cornered caps with s
 
 <!--.slide: data-background-image="./pics/Shelter.png" class="blur"-->
 
-![](Pictures\Shelter.png#cnt)
+![](./pics/Shelter.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 A Jewish man warning a wounded insurgent on an approaching Russian regiment.  (Schronisko (trans. Shelter) - Polonia cycle – Artur Grottger)
@@ -887,7 +887,7 @@ A Jewish man warning a wounded insurgent on an approaching Russian regiment.  (S
 
 --
 <!--.slide: data-background-image="./pics/ObronaDworu.png" class="blur"-->
-![](Pictures\ObronaDworu.png#cnt)
+![](./pics/ObronaDworu.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Obrona Dworu [trans. Manor’s Defence] - Polonia cycle – Artur Grottger
@@ -896,7 +896,7 @@ Obrona Dworu [trans. Manor’s Defence] - Polonia cycle – Artur Grottger
 --
 <!--.slide: data-background-image="./pics/ObronaDworu.png" class="blur"-->
 
-![](Pictures\Bitwa.png#cnt)
+![](./pics/Bitwa.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Bitwa (trans. Battle) - Polonia cycle – Artur Grottger
@@ -905,7 +905,7 @@ Bitwa (trans. Battle) - Polonia cycle – Artur Grottger
 --
 <!--.slide: data-background-image="./pics/pobojowisku.png" class="blur"-->
 
-![](Pictures\pobojowisku.png#cnt)
+![](./pics/pobojowisku.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Na pobojowisku (trans. On the battlefield) - Polonia cycle – Artur Grottger
@@ -937,7 +937,7 @@ Na pobojowisku (trans. On the battlefield) - Polonia cycle – Artur Grottger
 --
 <!--.slide: data-background-image="./pics/centralComitee.jpg" class="blur"-->
 
-![NCC seal](.\Pictures\centralComitee.jpg)
+![NCC seal](.\./pics/centralComitee.jpg)
 
 <div class="txt-overlay fragment" style="bottom:-100px !important"><span class="txt-overlay">
 The Seal of the National Central Committee, which sealed the originals of three documents from January 22, 1863. Soon the Committee, as the Provisional National Government, will begin using another seal, with the image of the Archangel Michael symbolizing Rus.
@@ -945,7 +945,7 @@ The Seal of the National Central Committee, which sealed the originals of three 
 
 --
 <!--.slide: data-background-image="./pics/scythians.png" class="blur"-->
-![](Pictures\scythians.png#cnt)
+![](./pics/scythians.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 The scythe of scythians, an illustration from the French magazine '' Le Monde Illustre '', 1863
@@ -953,14 +953,14 @@ The scythe of scythians, an illustration from the French magazine '' Le Monde Il
 --
 <!--.slide: data-background-image="./pics/peasentsPostcard.png" class="blur"-->
 
-![](Pictures\peasentsPostcard.png#cnt)
+![](./pics/peasentsPostcard.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 The peasants have not yet risen - a propaganda postcard from the January Uprising, polemizing with the view that peasants did not join the fight. It shows the peasants leading the fire in a lying position.
 </span></div>
 --
 <!--.slide: data-background-image="./pics/kovel.png" class="blur"-->
-![](Pictures\kovel.png#cnt)
+![](./pics/kovel.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Polish-Russian clash at Kovel on Volhynia in 1863
@@ -968,7 +968,7 @@ Polish-Russian clash at Kovel on Volhynia in 1863
 --
 <!--.slide: data-background-image="./pics/leavingGrodno.png" class="blur"-->
 
-![](Pictures\leavingGrodno.png#cnt)
+![](./pics/leavingGrodno.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 The insurgent party leaves Grodno
@@ -976,7 +976,7 @@ The insurgent party leaves Grodno
 --
 <!--.slide: data-background-image="./pics/Druzkopola.png" class="blur"-->
 
-![](Pictures\Druzkopola.png#cnt)
+![](./pics/Druzkopola.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 The entry of troops into insurgent Drużkopola the Volyn
@@ -985,7 +985,7 @@ The entry of troops into insurgent Drużkopola the Volyn
 --
 <!--.slide: data-background-image="./pics/Muravyov.png" class="blur"-->
 
-![](Pictures\Muravyov.png#cnt)
+![](./pics/Muravyov.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Michaił Murawjow Wileński "Hangman" in Lithuania
@@ -999,7 +999,7 @@ Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in
 
 <!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
 
-![](Pictures\AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png#cnt2)
+![](./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png#cnt2)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Alliance of Polish nobility and peasant during January Uprising
@@ -1013,7 +1013,7 @@ Public executions and deportations to Siberia led many Poles to abandon armed st
 ---
 <!--.slide: data-background-image="./pics/hangingOfPoles.png" class="text-bg-clr"-->
 
-![](Pictures\hangingOfPoles.png#cnt)
+![](./pics/hangingOfPoles.png#cnt)
 
 ---
 ### The Polish professional revolutionary exiles
@@ -1036,7 +1036,7 @@ I can only say that the insurrection, however much of heroism and patriotic devo
 
 ## The uprising in the international arena
 
-![Parliament proceedings are unimportant](Pictures\2017-05-19-15-11-43.png)
+![Parliament proceedings are unimportant](./pics/2017-05-19-15-11-43.png)
 {Daily Ohio statesman. (Columbus, Ohio), 02 April 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/lccn/sn84028645/1863-04-02/ed-1/seq-1/>|1}
 
 ---
