@@ -929,9 +929,9 @@ Na pobojowisku (trans. On the battlefield) - Polonia cycle – Artur Grottger
 </span></div>
 
 --
-<!--.slide: data-background-image="http://img-fotki.yandex.ru/get/6615/31331603.129/0_7e36c_a6ca7526_XL" class="blur"-->
+<!--.slide: data-background-image="/Pictures/0_7e36c_a6ca7526_XL.jpg" class="blur"-->
 
-![another](http://img-fotki.yandex.ru/get/6615/31331603.129/0_7e36c_a6ca7526_XL)
+![another](/Pictures/0_7e36c_a6ca7526_XL.jpg#cnt)
 
 
 --
