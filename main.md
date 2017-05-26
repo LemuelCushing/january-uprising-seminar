@@ -664,9 +664,9 @@ Russian army in Warsaw during martial law 1861
 --
 <!--.slide: data-background-image="/Pictures/Kosciuszko.png" class="text-bg-clr"-->
 
-<img data-src="/Pictures/kosciusz-1400882257.png">
-15 October 1861 - 
-Anniversiry of the death of Tadeusz Kościuszko (1817) - whose failed uprising in 1794 against the Russian opressors made him a martyr of the Polish national cause.
+<img data-src="./Pictures/kosciusz-1400882257.png" style="width: 300px; float: left;left:-50px;z-index: 100;position: relative;"> 
+**15 October 1861** - <br>
+A protest on anniversiry of the death of Tadeusz Kościuszko (1817) - whose failed uprising in 1794 against the Russian opressors made him a martyr of the Polish national cause - turned violent, when crown soldiors fired shots at the agitated crowd. 
 
 --
 <!--.slide: data-background-image="/Pictures/1863battle4.png" class="text-bg-clr"-->
