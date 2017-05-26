@@ -94,6 +94,7 @@
                 // titleSelector: '.title',
                 themes: false,
                 transitions: false,
+                hideMissingTitles: true,
                 custom: [{
                     title: "Bibliography",
                     icon: "<i class='fa fa-book'></i>",
@@ -130,7 +131,8 @@
                 new Tippy('.tp', {
                         interactive: true,
                         animation: 'perspective',
-                        size: 'big'
+                        size: 'big',
+                        hideDelay: 1000
                     })
                     // Tipped.create('.tp', {
                     //     size: 'huge',

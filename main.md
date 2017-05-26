@@ -1,7 +1,7 @@
 
-<section data-background="./Pictures/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG" class="text-bg-bw">
+<section data-background="./pics/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG" class="text-bg-bw">
 <div style="font-size:50%;z-index: 1;position: absolute;left:-150px;top: -20px;background-color:rgba(0, 0, 0, .56);padding:15px;text-align:left: left;font-family: 'Marcellus SC', serif;border-radius: 5px;">
-<img data-src="/Pictures/tau_logo.svg#cnt2" style="filter:invert(100%);"> <br>
+<img data-src="/pics/tau_logo.svg#cnt2" style="filter:invert(100%);"> <br>
 The Lester and Sally Entin<br> 
 Faculty of Humanities<br>
 Department of History<br>
@@ -19,7 +19,7 @@ By Gill Abarbanel 201483393
 </section>
 
 ---
-<!--.slide: data-background-image="/Pictures/polish_eagle.png" class="no-print"-->
+<!--.slide: data-background-image="/pics/polish_eagle.png" class="no-print"-->
 <h3>How to traverse this presentation</h3>
 
 Please use <i class="fa fa-chrome" style="color:#FFFFFF;"></i> <code>Chrome</code> or <i class="fa fa-firefox" style="color:#FFFFFF"></i> <code>Firefox</code>
@@ -30,7 +30,7 @@ Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle *
 
 #### press <code>↓</code> now
 --
-<!--.slide: data-background-image="/Pictures/polish_eagle.png" class="no-print"-->
+<!--.slide: data-background-image="/pics/polish_eagle.png" class="no-print"-->
 
 <h3>How to traverse this presentation</h3>
 
@@ -38,14 +38,14 @@ Every horizontal section is a broad subject<br>
 <code>←</code> and <code>→</code> arrows move between them<br>
 Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br>
 --
-<!--.slide: data-background-image="/Pictures/polish_eagle.png" class="no-print"-->
+<!--.slide: data-background-image="/pics/polish_eagle.png" class="no-print"-->
 <h3>How to traverse this presentation</h3>
 
 Press <span  style="font-family: keysFont; font-size: 200%;">o</span> to see an **o**verview of the entire presentation.
 
 Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[№]</sup> and can be viewed by mousing over them.
 --
-<!--.slide: data-background-image="/Pictures/polish_eagle.png" class="no-print"-->
+<!--.slide: data-background-image="/pics/polish_eagle.png" class="no-print"-->
 <h3>How to traverse this presentation</h3>
 
 The side-menu can be opened by clicking the <i class="fa fa-bars" style="color:#a23"></i> button on the bottom left.
@@ -53,27 +53,27 @@ The side-menu can be opened by clicking the <i class="fa fa-bars" style="color:#
 From there, you can navigate the slide or go the <i class='fa fa-book'></i> **Bibliography** or the <i class="fa fa-file-pdf-o" aria-hidden="true"></i> **printable version** of this presentation.  
 
 ---
-<!--.slide: data-background-image="/Pictures/hussar.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/hussar.png" class="text-bg-clr"-->
 ## The Collapse of The Polish-Lithuanian Commonwealth
 
 --
 <!--.slide: data-background="#d4213d"-->
 ### The Polish-Lithuanian Commonwealth
  
-![coat of arm](/Pictures/Large_coat_of_arms.svg#cnt2)
+![coat of arm](/pics/Large_coat_of_arms.svg#cnt2)
 --
-<!--.slide: data-background-image="/Pictures/2017-05-23-16-22-19.png" class="blur"-->
+<!--.slide: data-background-image="/pics/2017-05-23-16-22-19.png" class="blur"-->
 
-![Polish-Lithuanian Commonwealth in 1619](/Pictures/2017-05-23-16-22-19.png#cnt)
+![Polish-Lithuanian Commonwealth in 1619](/pics/2017-05-23-16-22-19.png#cnt)
 
 --
-<!--.slide: data-background-image="/Pictures/rejtan.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/rejtan.png" class="text-bg-clr"-->
 ### The Polish-Lithuanian Commonwealth
 
 **the polish-lithuanian Commonwealth** <br> was one of the largest and most populous countries of 16th- and 17th-century Europe. {Wandycz, Piotr Stefan. The Price of Freedom : A History of East Central Europe from the Middle Ages to the Present. Routledge, 2001. pp.66 |  4} However by the middle of the 17th century a string of disastrous wars left their economy in tatters and their political system in turmoil.
 --
 
-<!--.slide: data-background-image="/Pictures/plcw_stratas.png" class="blur"-->
+<!--.slide: data-background-image="/pics/plcw_stratas.png" class="blur"-->
 
 ![](Pictures\plcw_stratas.png)
 
@@ -83,7 +83,7 @@ Some social strata in the Polish–Lithuanian Commonwealth's society – 1655. <
 
 --
 
-<!--.slide: data-background-image="/Pictures/2017-05-22-19-04-53.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/2017-05-22-19-04-53.png" class="text-bg-clr"-->
 
 #### The Three Partitions
 
@@ -97,12 +97,12 @@ Committed by **Russia**, **Prussia**, and **Austria**
 Poland’s size was progressively reduced until the state of Poland ceased to exist.
 
 --
-<!--.slide: data-background-image="/Pictures/2017-05-22-19-04-53.png" class="blur"-->
+<!--.slide: data-background-image="/pics/2017-05-22-19-04-53.png" class="blur"-->
 
-![Partitions](/Pictures/2017-05-22-19-04-53.png#cnt)
+![Partitions](/pics/2017-05-22-19-04-53.png#cnt)
 --
 
-<!--.slide: data-background-image="/Pictures/2017-05-22-19-04-53.png" class="blur"-->
+<!--.slide: data-background-image="/pics/2017-05-22-19-04-53.png" class="blur"-->
 
 <img data-src="Pictures\Partitions_of_Poland_bw_map.png#cnt" style="width:500px" />
 
@@ -113,7 +113,7 @@ The Partitions became a focal point in European political discourse for years to
 For instance, they were mentioned in _"Il Canto degli Italiani"_, the Italian National Anthem, written in 1847, and were a major topic of discussion in The American _Federalist Papers_ (1787-1788).  
 
 --
-<!--.slide: data-background-image="/Pictures/burke_letter.png" class="text-bg-txt" -->
+<!--.slide: data-background-image="/pics/burke_letter.png" class="text-bg-txt" -->
 
 ![](Pictures\burke_portrait.png) <!--.element: style="width: 200px; float: right;z-index: 100;right:-50px;position: relative;"-->
 <blockquote>
@@ -121,7 +121,7 @@ No wise or honest man,” wrote **Edmund Burke**, “can approve of that partiti
 </blockquote>
 
 --
-<!--.slide: data-background-image="/Pictures/burke_letter.png" class="text-bg-txt" -->
+<!--.slide: data-background-image="/pics/burke_letter.png" class="text-bg-txt" -->
 
 ![](Pictures\burke_portrait.png) <!--.element: style="width: 200px; float: right;"-->
 “No wise or honest man,” wrote **Edmund Burke**, “can approve of that partition, or can contemplate it without prognosticating great mischief from it to all countries at some future time.”{Burke, Edmund. <i> A letter from the Rt. Honourable Edmund Burke to His Grace the Duke of Portland </i>, <span style="font-size: 50%;"> on the conduct of the minority in Parliament. Containing fifty-four articles of impeachment against the Rt. Hon. C. J. Fox.  [microform] From the original copy, in the possession of the noble duke  printed for the editor, and sold by J. Owen London  1797 http://purl.ox.ac.uk/ota/4019 </span> p.31 |2} 
@@ -135,15 +135,15 @@ Nikolay Karamzin:
 Let foreigners condemn the partition of Poland - we took what was ours.. {Karamzin, Nikolaĭ Mikhaĭlovich,. Karamzin’s Memoir on Ancient and Modern Russia: A Translation and Analysis (Ann Arbor: 2005). http://hdl.handle.net/2027/mdp.39015062623338. p.132 | 32}
 </blockquote>
 --
-<!--.slide: data-background-image="/Pictures/duchy_of_warsaw.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/duchy_of_warsaw.png" class="text-bg-clr"-->
 In 1807 the Polish State was briefly restored, albeit on a much smaller scale, when **Napoleon** set up the short-lived **Duchy of Warsaw**
 
 --
-<!--.slide: data-background-image="/Pictures/congress_vienna.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/congress_vienna.png" class="text-bg-bw"-->
 After Napoleon's defeat, the Russian-dominated **Congress Kingdom of Poland** was created by decree of the Congress of Vienna in 1815.
 
 --
-<!--.slide: data-background-image="/Pictures/sejmCongressPoland.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/sejmCongressPoland.png" class="text-bg-bw"-->
 
 ### The Kingdom of Poland
 Colloquially named **Congress Poland** was governed by the 
@@ -152,7 +152,7 @@ Colloquially named **Congress Poland** was governed by the
 between 1815 to 1831.
 
 --
-<!--.slide: data-background-image="/Pictures/sejmCongressPoland.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/sejmCongressPoland.png" class="text-bg-bw"-->
 
 On the 27 of November 1815 the **Constitution of the Kingdom of Poland** (_Konstytucja Królestwa Polskiego_) was signed by the Tsar and King of Poland, **Alexander I**.
 
@@ -169,7 +169,7 @@ But in 1819 Alexander I limited the freedom of the pressand introduced  heavy ce
 Russian secret police commanded by **Nikolay Nikolayevich Novosiltsev** started infiltration and persecution of Polish clandestine organizations, and in 1821 the Tsar ordered the abolition of freemasonry.
 
 --
-<!--.slide: data-background-image="/Pictures/sejmCongressPoland.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/sejmCongressPoland.png" class="text-bg-bw"-->
 
 Under Article 3 (On the Namiestnik and Council of State) of the new constitution, the office of the 
 ###### _**Namiestnik**_ 
@@ -202,11 +202,11 @@ Zajączek died in 1826 and was not replaced until 1831, when the November 1831 U
 The question of who controlled the military after Paskevich's death is unclear, but again the last namiestnik, **Fyodor Berg**, was tasked with crushing another Polish uprising—the January 1863 Uprising—and commanded the military.
 
 ---
-<!--.slide: data-background-image="/Pictures/novemberUprising.png" class="blur"-->
+<!--.slide: data-background-image="/pics/novemberUprising.png" class="blur"-->
 
 ## 1830-31 Rebellion
 ### the November Uprising
-<img data-src="/Pictures/November_Uprising.svg#cnt2" width="300">
+<img data-src="/pics/November_Uprising.svg#cnt2" width="300">
 
 <div class="txt-overlay fragment">
 <span class="txt-overlay">
@@ -221,7 +221,7 @@ Upon Nicolas I succession, the crown began limiting the liberties that existed u
 After 1825 the Polish Sejm was forced to hold its sessions in secret, while Nicholas I formally crowned himself as King of Poland on 24 May 1829 in Warsaw, to the dismay of the Polish political elites.
 
 --
-<!--.slide: data-background-image="/Pictures/warsawInfantry.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/warsawInfantry.png" class="text-bg-bw"-->
 
 ![](Pictures\Piotr_Wysocki.png) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 
@@ -245,7 +245,7 @@ Poles! This is the hour of revenge. Today, we must triumph or perish! Let us cha
 </blockquote>
 
 --
-<!--.slide: data-background-image="/Pictures/1830warsawPark.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1830warsawPark.png" class="text-bg-clr"-->
 
 The soldiers then proceeded to attack the Belweder Palace, the main seat of the Grand Duke, but failed to capture him. They then captured the city's main arsenal, while in the following days Polish civilians took arms and forced the Russian troops to withdraw north of Warsaw.  
 
@@ -270,17 +270,17 @@ in his choice of associates. {Wandycz, Piotr Stefan. The Lands of Partitioned Po
 The situation in the Kingdom further radicalized. On December 20, the Parliament issued a manifesto in which it announced a national uprising against Russia, presenting to the nations of the world its reasons for the rebellion.
 
 -- 
-<!--.slide: data-background-image="/Pictures/our_freedom_and_yours.png" class="blur"-->
+<!--.slide: data-background-image="/pics/our_freedom_and_yours.png" class="blur"-->
 
-<img data-src="/Pictures/our_freedom_and_yours.png#cnt2" width="700">
+<img data-src="/pics/our_freedom_and_yours.png#cnt2" width="700">
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 For our Freedom and Yours
 </span></div>
 --
-<!--.slide: data-background-image="/Pictures/sejmCongressPoland.png" class="blur"-->
+<!--.slide: data-background-image="/pics/sejmCongressPoland.png" class="blur"-->
 
-<img data-src="/Pictures/sejmCongressPoland.png#cnt2" width="900">
+<img data-src="/pics/sejmCongressPoland.png#cnt2" width="900">
 
 <div class="txt-overlay fragment"><span class="txt-overlay">
 Deposing of tsar Nikolay by the Polish Sejm in 1831
@@ -309,7 +309,7 @@ The latter date is considered to be the end of the November Uprising.
 --
 After crushing an insurrection in 1831, the Congress Kingdom's autonomy was abolished and Poles faced confiscation of property, deportation, forced military service, and the closure of their own universities.
 ---
-<!--.slide: data-background-image="/Pictures/Les_polonais_recus_en_Belgique.jpg" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/Les_polonais_recus_en_Belgique.jpg" class="text-bg-bw"-->
 
 ## The Great Immigration
 ### Wielka Emigracja
@@ -317,42 +317,42 @@ After crushing an insurrection in 1831, the Congress Kingdom's autonomy was abol
 ![](Pictures\TheGreatImmigration.png#cnt)
 
 --
-<!--.slide: data-background-image="/Pictures/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
 
 <blockquote style="font-size:70%;">
 After the collapse of the insurrection the Polish political, ideological, and cultural center shifted abroad. Plans for an emigration en masse existed already in the last stages of the war and resulted in the departure of most members of the government, ministers, many Sejm deputies, generals, junior officers, and common soldiers. A large number of the leaders of the Left went abroad hoping to achieve, in cooperation with Western revolutionaries, the political ascendency that had eluded them in the kingdom. The emigres numbered some nine thousand people. Two-thirds of them were of noble background-although few were magnates-and one-third were of urban-plebeian or peasant origin. Officers outnumbered common soldiers. As a result of this exodus, Paris, where many of the emigres settled, became a veritable headquarters of Polish national life. The emigration represented an elite of the nation and counted among its members some of the greatest names in Polish literature, history, music, and political thought. {Wandycz, Piotr Stefan. The Lands of Partitioned Poland, 1795-1918, 1974. https://getit.library.nyu.edu/link_router/index/125880316. p.117 |1} 
 </blockquote>
 --
-<!--.slide: data-background-image="/Pictures/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
 
 <blockquote style="font-size:75%;">
 Historians call this phase the 'Great Emigration'. This name is somewhat misleading, since it may imply that very large numbers of Poles left their country. In fact, the number of emigrants, who should more appropriately be called 'exiles', probably did not exceed 5000-6000 at any time between I83I and the beginning of great economic migration in the last quarter of the nineteenth century. The 'Great Emigration' was primarily a self-imposed exile of members of the revolutionary government and diet of 1830-1. [...]
 </blockquote>
 --
-<!--.slide: data-background-image="/Pictures/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
 <blockquote style="font-size:75%;">
 In addition to the politicians, some officers and men who were released from Prussian or Austrian internment camps sought refuge in France, England and Switzerland. However, the greatness of this emigration lay not in its military significance but rather in its contribution to the maintenance of Polish cultural values suppressed in Poland by the Occupying Powers.{Zubrzycki, J. “Emigration from Poland in the Nineteenth and Twentieth Centuries.” Population Studies 6, no. 3 (1953). http://www.jstor.org/stable/2172378. p.248| 1}
 </blockquote>
 --
-<!--.slide: data-background-image="/Pictures/demSocManifestoXL.png" class="text-bg-txt"-->
+<!--.slide: data-background-image="/pics/demSocManifestoXL.png" class="text-bg-txt"-->
 
 
 On 4 December 1836 the **Polish Democratic Society**, which broke from Lelewel's National Committee in early 1832, published the _Manifesto of the Polish Democratic Society_ {http://jbc.bj.uj.edu.pl/dlibra/pubindex?startint=1300&attId=$%7BstringAtt%7D&dirids=563| 3} in France, with an English translation published in the spring of 1837. {Leslie, R F. Reform and Insurrection in Russian Poland, 1856-1865. London: University of London, Athlone Press, 1963. p.12| 1}
 
 --
-<!--.slide: data-background-image="/Pictures/demSocManifestoXL.png" class="text-bg-txt"-->
+<!--.slide: data-background-image="/pics/demSocManifestoXL.png" class="text-bg-txt"-->
 
 
 <blockquote>
 The Polish Democratic Society was by far the most important group of emigrants, not so much because of the number of members as because of its organization, its clearly formulated program, and its later influence on the country.{Kieniewicz, Stefan. The Emancipation of the Polish Peasantry. Chicago: University of Chicago Press, 1969. https://quod.lib.umich.edu/cgi/t/text/text-idx?c=acls;cc=acls;view=toc;idno=heb05016.0001.001 pp.102-105 |1}
 </blockquote>
 --
-<!--.slide: data-background-image="/Pictures/demokratiaPolski.png" class="text-bg-txt"-->
+<!--.slide: data-background-image="/pics/demokratiaPolski.png" class="text-bg-txt"-->
 
 It echoed the opinions of the left wing _émigré_ circles, which criticized the November Uprising sejm for its narrow exclusiveness and disregard for thr masses, for if they did:
 
 --
-<!--.slide: data-background-image="/Pictures/demokratiaPolski.png" class="text-bg-txt"-->
+<!--.slide: data-background-image="/pics/demokratiaPolski.png" class="text-bg-txt"-->
 
 <blockquote>
 The people would have risen as one man, have braced the gauntlet of war [..] and crushed the invaders without foreign aid"
@@ -362,12 +362,12 @@ They called for "the next revolution not to be a sad repetition of the past - th
 
 ---
 
-<!--.slide: data-background-image="/Pictures/1832_london_conference.png" class="blur"-->
+<!--.slide: data-background-image="/pics/1832_london_conference.png" class="blur"-->
 
 # International Reaction
 
 --
-<!--.slide: data-background-image="/Pictures/1863battle0.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle0.png" class="text-bg-clr"-->
 
 The uprising sparked the imagination of many Europeans, who viewed the struggle of the "poor oppressed Poland" as the blooming of nationality and liberty.
 
@@ -380,7 +380,7 @@ Was founded in Britain on the 25th of February 1832 by the Scottish poet **Thoma
 Its central purpose was to keep the flame of public support for the Polish suffering in the aftermath of the failed November Uprising.
 
 --
-<!--.slide: data-background-image="/Pictures/pleasuresOfHope.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/pleasuresOfHope.png" class="text-bg-bw"-->
 
 #### From _The Pleasures of Hope_ by **Thomas Campbell** {The Pleasures of Hope; with other Poems. By Thomas Campbell. 1799 http://spenserians.cath.vt.edu/TextRecord.php?textsid=37917 |1}
 
@@ -406,7 +406,7 @@ Oh! sacred Truth! thy triumph ceas'd awhile,
 <br> 
 </div>
 --
-<!--.slide: data-background-image="/Pictures/pleasuresOfHope.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/pleasuresOfHope.png" class="text-bg-bw"-->
 <div style="-webkit-columns: 400px 2; -moz-columns: 400px 2; columns: 300px 2; font-family: 'Bentham', serif;font-size:60%;text-align:left;background-color: rgba(0, 0, 0, .56);padding:14px;border-radius:7px;position:absolute;right:-100px;left:-100px;">
 
 <br> He said, and on the rampart-heights, array'd
@@ -430,7 +430,7 @@ Oh! sacred Truth! thy triumph ceas'd awhile,
 <br> And Freedom shriek'd — as KOSCIUSKO fell!
 </div>
 --
-<!--.slide: data-background-image="/Pictures/songOfWarsaw.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/songOfWarsaw.png" class="text-bg-bw"-->
 
 ![](Pictures\casimir.png) <!--.element: style="width: 200px; float: right;"-->
 #### "Warszawianka 1831 roku", 
@@ -441,7 +441,7 @@ Written in support of the November Uprising by the French poet **Jean-François 
 The lyrics were later translated into Polish by the historian, poet and co-founder of the _Bibliothèque polonaise de Paris_ **Karol Sienkiewicz**. (1793 - 1860) {Under the pseudonym of <i>Exilé de Pologne</i> |2}
 
 --
-<!--.slide: data-background-image="/Pictures/warsawSong31Notes.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/warsawSong31Notes.png" class="text-bg-bw"-->
 THE SONG OF WARSAW 1831
 
 <div style="-webkit-columns: 300px 2; -moz-columns: 300px 2; columns: 300px 2; font-family: 'Bentham', serif;font-size:70%;text-align:left:left;background-color: rgba(0, 0, 0, .56);padding:14px;border-radius:7px;">
@@ -477,7 +477,7 @@ Today is a day of blood and glory,
 <br> Sound forth to our foes!
 </div>
 --
-<!--.slide: data-background-image="/Pictures/jacksonianAmerica.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/jacksonianAmerica.png" class="text-bg-clr"-->
 
 ###### And in the USA:
 
@@ -486,7 +486,7 @@ A wave of Polonophilia swept over Jacksonian America; when hardly a day went by 
 </blockquote>
 
 --
-<!--.slide: data-background-image="/Pictures/1832_london_conference.png" class="blur"-->
+<!--.slide: data-background-image="/pics/1832_london_conference.png" class="blur"-->
 
 ![](Pictures\1832_london_conference.png#cnt)
 
@@ -495,12 +495,12 @@ A wave of Polonophilia swept over Jacksonian America; when hardly a day went by 
 </span></div>
 
 ---
-<!--.slide: data-background-image="/Pictures/Zanonni_Carte_De_La_Pologne.jpg" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/Zanonni_Carte_De_La_Pologne.jpg" class="text-bg-clr"-->
 ### Paskiewicz Period 
 #### (1831-1856)
 
 --
-<!--.slide: data-background-image="/Pictures/Zanonni_Carte_De_La_Pologne.jpg" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/Zanonni_Carte_De_La_Pologne.jpg" class="text-bg-clr"-->
 In the decades following the November Uprising both sides of the Polish nationalist spectrum saw little success in raising the masses or in the international sphere, even though the 1840s saw a few disturbances around Greater Poland.
 
 Overall - <br>
@@ -519,23 +519,23 @@ _L'ordre règne à Varsovie_ (1831) by Jean Ignace Isidore Gérard
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw2.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw2.png" class="text-bg-bw"-->
 But the cultural leaders of the Great Emigration worked to sustain the Polish national spirit and its cause in the European public sphere. 
 
 "Their ideas of Polish messianism, of Poland rising from the dead to lead Europe to a new Kingdom of God on Earth, caught on among segments of a new generation of youthful Poles who accepted sacrifice as a necessary ingredient for the salvation of Poland." {Kutolowski, John F. “Polish Exiles and British Public Opinion: A Case Study of 1861-62.” Canadian Slavonic Papers / Revue Canadienne Des Slavistes 21, no. 1 (1979). http://www.jstor.org/stable/40867415. p.46 |1}
 
 ---
-<!--.slide: data-background-image="/Pictures/1861Warsaw7.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw7.png" class="text-bg-bw"-->
 
 # 1861 Warsaw Upheavals
 
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw1.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw1.png" class="text-bg-bw"-->
 
 Up until the first turmoils in Warsaw, one could say that the Russian occupation operated through a regime of repression and appeasment.
 
 --
-<!--.slide: data-background-image="/Pictures/Gorczakow2.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/Gorczakow2.png" class="text-bg-bw"-->
 #### Michaił Dymitrowicz Gorczakow, 
 #####  Михаил Димитрович Горчаков
 
@@ -543,25 +543,25 @@ Up until the first turmoils in Warsaw, one could say that the Russian occupation
 
 Appointed in 1856 by Alexander II as the governor of the Polish Kingdom .
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw2.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw2.png" class="text-bg-bw"-->
 
 "The regime was universally disliked, but it was not universally opposed" {Kieniewicz, Stefan. “Polish Society And The Insurrection Of 1863.” Past and Present 37, no. 1 (1967): 130–48. doi:10.1093/past/37.1.130. p.132 | 1}
 
 Most of the occupation army was composed of Poles, and "in some way, every social group collaberated with the hated regime" {ibid |1}
 
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw6.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw6.png" class="text-bg-bw"-->
 <blockquote>
 The peasant alone had no share in this collaboration, but it was the peasant who tended to expect an improvement in his condition from 'the good emperor' {ibid | 1}
 </blockquote>
 
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw4.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw4.png" class="text-bg-bw"-->
 
 In June of 1860, the streets of Warsaw became the place of marches and demonstrations. They began with a display of Sowińska general's funeral,the widow of the legendary commander of the defense of Wola in 1831.
 
 --
-<!--.slide: data-background-image="/Pictures/1863battle1.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle1.png" class="text-bg-clr"-->
 
 Then came the demonstrations during the October conference of the leaders of the occupying powers, and demonstrations on the anniversary of the November uprising and its subsequent anniversaries of events.
 
@@ -571,17 +571,17 @@ The first procession dispersed February 25, 1861, and two days later a volley of
 
 
 --
-<!--.slide: data-background-image="/Pictures/DelegacjaMiejska.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/DelegacjaMiejska.png" class="text-bg-bw"-->
 
 Gorczakow, fearing that further clashes could erupt into open fighting,  first withdrew the army from the streets and agreed to set up, on the night between the 27 and 28 of February, a **City Delegation** (Delegacja Miejska) issued on behalf of society Polish address to the Tsar.
 
 --
-<!--.slide: data-background-image="/Pictures/DelegacjaMiejska.png" class="text-bg-bw blur"-->
+<!--.slide: data-background-image="/pics/DelegacjaMiejska.png" class="text-bg-bw blur"-->
 
 ![](Pictures\DelegacjaMiejska.png#cnt)
 
 --
-<!--.slide: data-background-image="/Pictures/DelegacjaMiejska.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/DelegacjaMiejska.png" class="text-bg-bw"-->
 
 It was composed of 14 members, representing different classes of the town. They were:
 
@@ -603,17 +603,17 @@ It was composed of 14 members, representing different classes of the town. They 
 </ul> 
 
 --
-<!--.slide: data-background-image="/Pictures/DelegacjaMiejska.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/DelegacjaMiejska.png" class="text-bg-bw"-->
 
 Together with representatives of the Agricultural Society, the delegation drafted an address Emperor Alexander II, submitted to the governor of the Polish Kingdom Mikhail Gorczakow .
 
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw3Newspaper.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw3Newspaper.png" class="text-bg-bw"-->
 
 But the Tsar refused to accept the delgation's address, and Gorczakow, recognizing the danger of an uprising, concealed the fact of the rejection, agreed to ostentatious funerals of the victims of the February clashes, ordered the army and police to withdrew from the streets, and entrusted the policing to vigilante.
 
 --
-<!--.slide: data-background-image="/Pictures/1863battle2.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle2.png" class="text-bg-clr"-->
 
 At this point in the political saga appeared Margrave **Aleksander Wielopolski**, leader of the compromising faction, professing the idea of _organic work_. Wielopolski received a promise from Gorczakow to transfer the supervision of the education system to the Polish noble, to re-activate the Polish higher education and to create a local government in the Kingdom.
 
@@ -625,7 +625,7 @@ At this point in the political saga appeared Margrave **Aleksander Wielopolski**
 Appointed chief admin in 1861 by Alexander II. Led an agenda of limiting Polish autonomy through an 1832 statute, drafting Polish civil servants into the imperial bureaucracy.
 
 --
-<!--.slide: data-background-image="/Pictures/1863battle3.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle3.png" class="text-bg-clr"-->
 
 ### The Agricultural Society
 #### Towarzystwo Rolnicze
@@ -639,7 +639,7 @@ Disbanded by Aleksander Wielopolski on April 6, 1861
 The disbanding sparked a demonstration in Castle Square in Warsaw which, in the Polish public opinion, though is doubtful corrabarated by the actual events, saw 100 people killed and approximately 200 wounded.
 
 --
-<!--.slide: data-background-image="/Pictures/8April1861-CastleSqr.png" class="blur"-->
+<!--.slide: data-background-image="/pics/8April1861-CastleSqr.png" class="blur"-->
 
 ![](Pictures\8April1861-CastleSqr.png#cnt)
 
@@ -648,28 +648,28 @@ Russian army shoots at demonstrators at the Castle Square in Warsaw , April 8, 1
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/1861Warsaw5.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/1861Warsaw5.png" class="text-bg-bw"-->
 
 After a series of patriotic riots, the Russian Namestnik General Karl Lambert, introduced martial law in Poland on 14 October 1861. Public gatherings were banned and some public leaders were declared outlaws.
 
 --
-<!--.slide: data-background-image="/Pictures/Warsaw1861.jpg" class="blur"-->
+<!--.slide: data-background-image="/pics/Warsaw1861.jpg" class="blur"-->
 
-![1861 Warsaw Martial Law](./Pictures/Warsaw1861.jpg#cnt2)
+![1861 Warsaw Martial Law](./pics/Warsaw1861.jpg#cnt2)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Russian army in Warsaw during martial law 1861
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/Kosciuszko.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/Kosciuszko.png" class="text-bg-clr"-->
 
-<img data-src="./Pictures/kosciusz-1400882257.png" style="width: 300px; float: left;left:-50px;z-index: 100;position: relative;"> 
+<img data-src="./pics/kosciusz-1400882257.png" style="width: 300px; float: left;left:-50px;z-index: 100;position: relative;"> 
 **15 October 1861** - <br>
 A protest on anniversiry of the death of Tadeusz Kościuszko (1817) - whose failed uprising in 1794 against the Russian opressors made him a martyr of the Polish national cause - turned violent, when crown soldiors fired shots at the agitated crowd. 
 
 --
-<!--.slide: data-background-image="/Pictures/1863battle4.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle4.png" class="text-bg-clr"-->
 
 Thus in 1861 the status-quo abruptly collaped. 
 
@@ -678,12 +678,12 @@ The triumph of Garibaldi, and the achivments of Cavour excited both the patrioti
 ## The Poles had ceased to obey.{Kieniewicz, Stefan. “Polish Society And The Insurrection Of 1863.” Past and Present 37, no. 1 (1967). doi:10.1093/past/37.1.130. p.133 | 1}
 
 ---
-<!--.slide: data-background-image="/Pictures/1863battle5.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle5.png" class="text-bg-clr"-->
 
 ## Immediate political consequences
 
 --
-<!--.slide: data-background-image="/Pictures/1863battle6.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863battle6.png" class="text-bg-clr"-->
 #### The rise of political, revolutionary and secret societies
 
 <blockquote style="font-size:85%;">
@@ -691,43 +691,43 @@ There were dozens of conspiratorial groups in Warsaw in the middle of 1861, but 
 </blockquote>
 
 --
-<!--.slide: data-background-image="/Pictures/woundedPoles2.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/woundedPoles2.png" class="text-bg-clr"-->
 But less then 2 years later:
 
 <blockquote>
 On the eve of the outbreak of the insurrection the secret organization counted upon about 20,000 members. According to some of the evidence, there were 8,000 supporters in Warsaw alone, of whom 80 per cent were artisans and workmen;and it would certainly seem that at least half of the Warsaw artisans and workmen belonged to the conspiracy, a very high percentage indeed.
 </blockquote>
 --
-<!--.slide: data-background-image="/Pictures/vetransPhoto.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/vetransPhoto.png" class="text-bg-clr"-->
 ## The Red and White factions
 
 The future leaders of the uprising gathered secretly in St. Petersburg, Warsaw, Vilna, Paris and London. After this series of meetings two major factions emerged. The Reds represented united peasants, workers, and some clergy, while The Whites represented liberal minded landlords and intelligentsia of the time. In 1862 two initiative groups were formed for the two components of the former Polish-Lithuanian Commonwealth.
 
 --
-<!--.slide: data-background-image="/Pictures/woundedPole.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/woundedPole.png" class="text-bg-clr"-->
 ### The whites 
 
 The aristocratic Conservatives were centred in the Hotel Lambert in Paris with Prince Adam Czartoryski as their leader. They established a quasi-government-in-exile.
 
 --
-<!--.slide: data-background-image="/Pictures/russiansDemolish.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/russiansDemolish.png" class="text-bg-clr"-->
 ### The whites 
 
 The "Whites" (Polish: Biali) consisted mainly of progressive minded gentry and industrialists, the middle-class and some intellectuals of. The faction had its origins in the Agricultural Society.
 
 --
-<!--.slide: data-background-image="/Pictures/1863photo2.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863photo2.png" class="text-bg-clr"-->
 ### The whites 
 While the Whites supported ending serfdom, they were opposed to the "Red" _Democratic Society_ idea of total re-distribution and called for compensations to be made to the landlords. More importantly, the Whites generally opposed the idea of an armed insurrection against Russia, seeing it as doomed to failure, and instead advocated for a diplomacic route and wooed the European powers for support, a separate administration and a native Polish army. 
 
 --
-<!--.slide: data-background-image="/Pictures/polishCaptives.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/polishCaptives.png" class="text-bg-clr"-->
 ### The whites
 
 They also tried to influence the Tsar to engage in the recovery of former Polish lands which had been taken by partitioning powers other than Russia - Austria and Prussia. However, once the January Uprising broke out, most Whites supported it both politically and militarily.
 
 --
-<!--.slide: data-background-image="/Pictures/polesExpelled.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/polesExpelled.png" class="text-bg-clr"-->
 ### The whites
 
 #### Notable members
@@ -738,20 +738,20 @@ They also tried to influence the Tsar to engage in the recovery of former Polish
 * Andrzej Artur Zamoyski
  
 --
-<!--.slide: data-background-image="/Pictures/derailingTransport.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/derailingTransport.png" class="text-bg-clr"-->
 ### The Reds
 
 The Polish Radicals espoused democratic, republican and sometimes socialistic ideas. Their National Committee, established in Paris and later moved to Brussels, purported to represent the Polish nation, and had as its key figure the historian **Joachim Lewelel**. 
 --
-<!--.slide: data-background-image="/Pictures/1863photo.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/1863photo.png" class="text-bg-clr"-->
 ### The Reds
 They supported the outbreak of the uprising from the outset, advocated an end to serfdom and future independent Poland, without compensation to the landlords, land reform and other substantial social reforms.
 
-<img data-src="/Pictures/centralComitee.jpg" width="400"> <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
+<img data-src="/pics/centralComitee.jpg" width="400"> <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 The Central National Committee (Komitet Centralny Narodowy) formed the leadership basis of the faction.
 
 --
-<!--.slide: data-background-image="/Pictures/goraDuring.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/goraDuring.png" class="text-bg-clr"-->
 ### The Reds
 
 #### Notable members
@@ -767,12 +767,12 @@ The Central National Committee (Komitet Centralny Narodowy) formed the leadershi
 * Bronisław Szwarce
 
 --
-<!--.slide: data-background-image="/Pictures/radomForest.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/radomForest.png" class="text-bg-clr"-->
 
 In general, the Reds represented liberal intellectuals while the Whites based their support on progressive landlords. The Reds were based in Warsaw and concentrated around the Warsaw Medical Academy, while the Whites' base of support was in Kraków. 
 
 ---
-<!--.slide: data-background-image="/Pictures/warsawForest.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/warsawForest.png" class="text-bg-clr"-->
 ## January Uprising
 
 --
@@ -783,7 +783,7 @@ In general, the Reds represented liberal intellectuals while the Whites based th
 The famous architect of Alexander II's liberal reforms was dispached to Poland to implement reforms. He orchestrated an emancipation of the peasantry at the expense of the nationalist landowners and the expulsion of Roman Catholic priests from schools. Russificaion on the one hand, and appeasment of the lower-classes on the other.
 --
 
-<!--.slide: data-background-image="/Pictures/conscription.png" class="blur"-->
+<!--.slide: data-background-image="/pics/conscription.png" class="blur"-->
 
 ![](Pictures\conscription.png#cnt)
 
@@ -793,29 +793,29 @@ The forced conscription
 </span></div>
 --
 --
-<!--.slide: data-background-image="/Pictures/forcedDraft.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/forcedDraft.png" class="text-bg-clr"-->
 
 On the 14th of January 1863, a sudden attempt by the Tsar to crack down on potential political agitators and nationalist ne'er-do-wells was attempted by a decree of a mass conscription into the Imperial Army.
 The aspiring revolutionaries - revolted, took to the woods and took up arms against the foreign regime. It was soon joined by high-ranking Polish-Lithuanian officers and various politicians. The insurrectionists, severely outnumbered and lacking serious outside support, were forced to resort to guerrilla warfare tactics. 
 
 
 --
-<!--.slide: data-background-image="/Pictures/path" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/path" class="text-bg-clr"-->
 was formed in the night of 22 on 23 January 1863 as a result of the transformation of it from the Central Committee of the National and was the highest executive body in the uprising . Provisional Government signed the " Manifesto ," in which he called for the fight and announce the enfranchisement of peasants , which remained a fiction because of the inability to enforce the decision. The government has proposed a person Ludwika Mierosławskiego the uprising dictator, but this after losing two battles resigned to take the position. After the takeover of power by the party of white TRN changed its name to the National Government .
 National Government had legislative power and the executive , created his own secret state administration, responsible, among others, for collecting taxes , the operation of a secret e-mail , edit the press.
 The arrest Romuald Traugutta 10 April 1864 r. Is considered to be the end of the activities of the National Government during the January uprising.
 --
 
-<!--.slide: data-background-image="/Pictures/January_Uprising_proclamation_1863.PNG" class="blur"-->
+<!--.slide: data-background-image="/pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
-![menifesto](/Pictures/January_Uprising_proclamation_1863.PNG#cnt)
+![menifesto](/pics/January_Uprising_proclamation_1863.PNG#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Proclamation of the <i>Polish National Government</i> 
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/January_Uprising_proclamation_1863.PNG" class="blur"-->
+<!--.slide: data-background-image="/pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
 ![Maria Ilnicka](Pictures/MariaIlnicka2.jpg#cnt)
 
@@ -823,7 +823,7 @@ Proclamation of the <i>Polish National Government</i>
 Maria Ilnicka - Wrote the 1863 manifesto 
 </span></div>
 --
-<!--.slide: data-background-image="/Pictures/January_Uprising_proclamation_1863.PNG" class="blur"-->
+<!--.slide: data-background-image="/pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
 ![Maria Ilnicka](Pictures/MariaIlnicka.jpg#cnt) 
 
@@ -846,9 +846,9 @@ Having read about the beginning of the revolt from newspapers, Dostoevsky began 
 </blockquote>
 
 --
-<!--.slide: data-background-image="/Pictures/Rok_1863_Polonia.jpg" class="blur"-->
+<!--.slide: data-background-image="/pics/Rok_1863_Polonia.jpg" class="blur"-->
 
-![Rok_1863_Polonia.jpg](./Pictures/Rok_1863_Polonia.jpg#cnt)
+![Rok_1863_Polonia.jpg](./pics/Rok_1863_Polonia.jpg#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 "Polonia (Poland), 1863", by Jan Matejko, 1864, oil on canvas, 156 × 232 cm, National Museum, Kraków. Pictured is the aftermath of the failed January 1863 Uprising. Captives await transportation to Siberia. Russian officers and soldiers supervise a blacksmith placing shackles on a woman (Polonia). The blonde girl next to her represents Lithuania.
@@ -856,7 +856,7 @@ Having read about the beginning of the revolt from newspapers, Dostoevsky began 
 
 
 --
-<!--.slide: data-background-image="/Pictures/forging-scythes.png" class="blur"-->
+<!--.slide: data-background-image="/pics/forging-scythes.png" class="blur"-->
 
 ![](Pictures\forging-scythes.png#cnt)
 
@@ -867,9 +867,9 @@ In the background, two insurgents armed with guns in a four-cornered caps with s
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/Scythemen.png" class="blur"-->
+<!--.slide: data-background-image="/pics/Scythemen.png" class="blur"-->
 
-<img data-src="/Pictures/Scythemen.png#cnt2" width="600">
+<img data-src="/pics/Scythemen.png#cnt2" width="600">
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
  Scythemen during Poland's January 1863 Uprising
@@ -877,7 +877,7 @@ In the background, two insurgents armed with guns in a four-cornered caps with s
 
 --
 
-<!--.slide: data-background-image="/Pictures/Shelter.png" class="blur"-->
+<!--.slide: data-background-image="/pics/Shelter.png" class="blur"-->
 
 ![](Pictures\Shelter.png#cnt)
 
@@ -886,7 +886,7 @@ A Jewish man warning a wounded insurgent on an approaching Russian regiment.  (S
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/ObronaDworu.png" class="blur"-->
+<!--.slide: data-background-image="/pics/ObronaDworu.png" class="blur"-->
 ![](Pictures\ObronaDworu.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
@@ -894,7 +894,7 @@ Obrona Dworu [trans. Manor’s Defence] - Polonia cycle – Artur Grottger
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/ObronaDworu.png" class="blur"-->
+<!--.slide: data-background-image="/pics/ObronaDworu.png" class="blur"-->
 
 ![](Pictures\Bitwa.png#cnt)
 
@@ -903,7 +903,7 @@ Bitwa (trans. Battle) - Polonia cycle – Artur Grottger
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/pobojowisku.png" class="blur"-->
+<!--.slide: data-background-image="/pics/pobojowisku.png" class="blur"-->
 
 ![](Pictures\pobojowisku.png#cnt)
 
@@ -929,13 +929,13 @@ Na pobojowisku (trans. On the battlefield) - Polonia cycle – Artur Grottger
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/0_7e36c_a6ca7526_XL.jpg" class="blur"-->
+<!--.slide: data-background-image="/pics/0_7e36c_a6ca7526_XL.jpg" class="blur"-->
 
-![another](/Pictures/0_7e36c_a6ca7526_XL.jpg#cnt)
+![another](/pics/0_7e36c_a6ca7526_XL.jpg#cnt)
 
 
 --
-<!--.slide: data-background-image="/Pictures/centralComitee.jpg" class="blur"-->
+<!--.slide: data-background-image="/pics/centralComitee.jpg" class="blur"-->
 
 ![NCC seal](.\Pictures\centralComitee.jpg)
 
@@ -944,14 +944,14 @@ The Seal of the National Central Committee, which sealed the originals of three 
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/scythians.png" class="blur"-->
+<!--.slide: data-background-image="/pics/scythians.png" class="blur"-->
 ![](Pictures\scythians.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 The scythe of scythians, an illustration from the French magazine '' Le Monde Illustre '', 1863
 </span></div>
 --
-<!--.slide: data-background-image="/Pictures/peasentsPostcard.png" class="blur"-->
+<!--.slide: data-background-image="/pics/peasentsPostcard.png" class="blur"-->
 
 ![](Pictures\peasentsPostcard.png#cnt)
 
@@ -959,14 +959,14 @@ The scythe of scythians, an illustration from the French magazine '' Le Monde Il
 The peasants have not yet risen - a propaganda postcard from the January Uprising, polemizing with the view that peasants did not join the fight. It shows the peasants leading the fire in a lying position.
 </span></div>
 --
-<!--.slide: data-background-image="/Pictures/kovel.png" class="blur"-->
+<!--.slide: data-background-image="/pics/kovel.png" class="blur"-->
 ![](Pictures\kovel.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Polish-Russian clash at Kovel on Volhynia in 1863
 </span></div>
 --
-<!--.slide: data-background-image="/Pictures/leavingGrodno.png" class="blur"-->
+<!--.slide: data-background-image="/pics/leavingGrodno.png" class="blur"-->
 
 ![](Pictures\leavingGrodno.png#cnt)
 
@@ -974,7 +974,7 @@ Polish-Russian clash at Kovel on Volhynia in 1863
 The insurgent party leaves Grodno
 </span></div>
 --
-<!--.slide: data-background-image="/Pictures/Druzkopola.png" class="blur"-->
+<!--.slide: data-background-image="/pics/Druzkopola.png" class="blur"-->
 
 ![](Pictures\Druzkopola.png#cnt)
 
@@ -983,7 +983,7 @@ The entry of troops into insurgent Drużkopola the Volyn
 </span></div>
 
 --
-<!--.slide: data-background-image="/Pictures/Muravyov.png" class="blur"-->
+<!--.slide: data-background-image="/pics/Muravyov.png" class="blur"-->
 
 ![](Pictures\Muravyov.png#cnt)
 
@@ -997,7 +997,7 @@ Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in
 
 ---
 
-<!--.slide: data-background-image="/Pictures/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="/pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
 
 ![](Pictures\AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png#cnt2)
 
@@ -1006,12 +1006,12 @@ Alliance of Polish nobility and peasant during January Uprising
 </span></div>
 --
 
-<!--.slide: data-background-image="/Pictures/woundedMinsk.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/woundedMinsk.png" class="text-bg-clr"-->
 
 Public executions and deportations to Siberia led many Poles to abandon armed struggle and turn instead to the idea of "organic work": economic and cultural self-improvement.
 
 ---
-<!--.slide: data-background-image="/Pictures/hangingOfPoles.png" class="text-bg-clr"-->
+<!--.slide: data-background-image="/pics/hangingOfPoles.png" class="text-bg-clr"-->
 
 ![](Pictures\hangingOfPoles.png#cnt)
 
@@ -1044,9 +1044,9 @@ I can only say that the insurrection, however much of heroism and patriotic devo
 ## The diplomatic impact of the uprising on the American Civil War
 
 --
-<!--.slide: data-background-image="/Pictures/1863LincolnRussia.jpg" class="blur"-->
+<!--.slide: data-background-image="/pics/1863LincolnRussia.jpg" class="blur"-->
 
-![Lincon-Tsar Punch](/Pictures/1863LincolnRussia.jpg#cnt)
+![Lincon-Tsar Punch](/pics/1863LincolnRussia.jpg#cnt)
 --
 ## Visit of the Russian fleet
 
