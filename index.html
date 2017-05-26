@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>A Nation of Illustrious Exiles</title>
     <script src="./js/anchorme.js"></script>
-    <link href="https://fonts.googleapis.com/css?family==Fondamento|Bentham|Cinzel:400,700,900|Marcellus+SC&amp;subset=latin-ext" rel="stylesheet">
     <!--<script type="text/javascript" src="./js/textFit.min.js"></script>-->
     <link rel="stylesheet" href="css/icon.css">
     <link rel="stylesheet" href="css/material.red-deep_orange.min.css" />
@@ -20,8 +19,6 @@
     <!--<script src="./js/opentip-jquery.min"></script>-->
     <!--<script src="./js/jquery.lettering-0.6.1.min.js"></script>-->
     <link rel="stylesheet" href="css/tippy.css" />
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <script src="https://use.fontawesome.com/0430db19bd.js"></script>
     <script src="js/tippy.min.js"></script>
     <link rel="stylesheet" href="css/tipped.css">
     <!--<script src="https//cdn.jsdelivr.net/jquery.loadingoverlay/latest/loadingoverlay.min.js"></script>
@@ -36,7 +33,68 @@
         link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
         document.getElementsByTagName('head')[0].appendChild(link);
     </script>
-    <link rel="stylesheet" href="css/stylesheet.css" />
+    <style>
+        @font-face {
+            font-family: keysFont;
+            src: url(css/KeyCapsFLF.ttf);
+        }
+        
+        .tp {
+            text-decoration: underline overline dotted;
+            /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;*/
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+            font-size: 50% !important;
+        }
+        
+        .reveal h1 h2 h3 {
+            text-shadow: rgb(163, 57, 57) 2px 4px 6px !important;
+            /*text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red !important;*/
+        }
+        
+        #loader-wrapper .loader-section {
+            position: fixed;
+            top: 0;
+            width: 51%;
+            height: 100%;
+            background: #222222;
+            z-index: 1000;
+        }
+        
+        #loader-wrapper .loader-section.section-left {
+            left: 0;
+        }
+        
+        #loader-wrapper .loader-section.section-right {
+            right: 0;
+        }
+        
+        img[src$='#cnt'] {
+            max-width: 85%;
+            max-height: 85%;
+        }
+        
+        .slide-background.blur.present {
+            /*animation-duration: 3s;*/
+            /*filter: blur(4px) sepia(50%);*/
+            -webkit-animation: blur 1s linear forwards;
+            -moz-animation: blur 1s linear forwards;
+            -ms-animation: blur 1s linear forwards;
+            -o-animation: blur 1s linear forwards;
+            animation: blur 1s linear forwards;
+            -webkit-animation-delay: 30ms;
+            -moz-animation-delay: 30ms;
+            animation-delay: 30ms;
+        }
+        
+        @keyframes blur {
+            from {
+                filter: blur(0px) sepia(0%) hue-rotate(0);
+            }
+            to {
+                filter: blur(4px) sepia(70%) hue-rotate(10deg);
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -49,7 +107,19 @@
     </div>-->
     <div class="reveal">
         <div class="slides">
+            <!--<section class="title" data-background="./Pictures/Les_polonais_recus_en_Belgique.jpg">
+                <p>
+                    <h3 style="color: black;">The Great Emigration</h3>
+                </p>
+                <h4 style="font-size:xx-large;color: white;">Wielka Emigracja</h4>
+            </section>-->
+            </section>
             <section data-markdown="main.md" data-separator="^---" data-separator-vertical="^--">
+            </section>
+            <section>
+                <span class="fragment grow">
+					<span class="fragment highlight-green">I'll fade in, then out</span>
+                </span>
             </section>
         </div>
     </div>
@@ -97,7 +167,6 @@
                 // titleSelector: '.title',
                 themes: false,
                 transitions: false,
-                hideMissingTitles: true,
                 custom: [{
                     title: "Bibliography",
                     icon: "<i class='fa fa-book'></i>",
@@ -134,9 +203,7 @@
                 new Tippy('.tp', {
                         interactive: true,
                         animation: 'perspective',
-                        size: 'big',
-                        hideDelay: 1000,
-
+                        size: 'big'
                     })
                     // Tipped.create('.tp', {
                     //     size: 'huge',
