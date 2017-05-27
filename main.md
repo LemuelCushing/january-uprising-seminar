@@ -1,5 +1,5 @@
 
-<section data-background="./pics/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG" class="text-bg-bw">
+<section data-background-image="./pics/Namiestnik_of_Poland_Palace_during_January_Uprising_1863.PNG" class="text-bg-bw">
 <div style="font-size:50%;z-index: 1;position: absolute;left:-150px;top: -20px;background-color:rgba(0, 0, 0, .56);padding:15px;text-align:left: left;font-family: 'Marcellus SC', serif;border-radius: 5px;">
 <img data-src="./pics/tau_logo.svg#cnt2" style="filter:invert(100%);"> <br>
 The Lester and Sally Entin<br> 
@@ -319,8 +319,8 @@ After crushing an insurrection in 1831, the Congress Kingdom's autonomy was abol
 --
 <!--.slide: data-background-image="./pics/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
 
-<blockquote style="font-size:70%;">
-After the collapse of the insurrection the Polish political, ideological, and cultural center shifted abroad. Plans for an emigration en masse existed already in the last stages of the war and resulted in the departure of most members of the government, ministers, many Sejm deputies, generals, junior officers, and common soldiers. A large number of the leaders of the Left went abroad hoping to achieve, in cooperation with Western revolutionaries, the political ascendency that had eluded them in the kingdom. The emigres numbered some nine thousand people. Two-thirds of them were of noble background-although few were magnates-and one-third were of urban-plebeian or peasant origin. Officers outnumbered common soldiers. As a result of this exodus, Paris, where many of the emigres settled, became a veritable headquarters of Polish national life. The emigration represented an elite of the nation and counted among its members some of the greatest names in Polish literature, history, music, and political thought. {Wandycz, Piotr Stefan. The Lands of Partitioned Poland, 1795-1918, 1974. https://getit.library.nyu.edu/link_router/index/125880316. p.117 |1} 
+<blockquote style="font-size:60%;">
+After the collapse of the insurrection, the Polish political, ideological, and cultural center shifted abroad. Plans for an emigration en masse existed already in the last stages of the war and resulted in the departure of most members of the government, ministers, many Sejm deputies, generals, junior officers, and common soldiers. A large number of the leaders of the Left went abroad hoping to achieve, in cooperation with Western revolutionaries, the political ascendency that had eluded them in the kingdom. The emigres numbered some nine thousand people. Two-thirds of them were of noble background-although few were magnates-and one-third were of urban-plebeian or peasant origin. Officers outnumbered common soldiers. As a result of this exodus, Paris, where many of the emigres settled, became a veritable headquarters of Polish national life. The emigration represented an elite of the nation and counted among its members some of the greatest names in Polish literature, history, music, and political thought. {Wandycz, Piotr Stefan. The Lands of Partitioned Poland, 1795-1918, 1974. https://getit.library.nyu.edu/link_router/index/125880316. p.117 |1} 
 </blockquote>
 --
 <!--.slide: data-background-image="./pics/MWP_1830_Le_réfugié_polonais.jpg" class="text-bg-bw"-->
@@ -801,9 +801,9 @@ The aspiring revolutionaries - revolted, took to the woods and took up arms agai
 
 --
 <!--.slide: data-background-image="./pics/path" class="text-bg-clr"-->
-was formed in the night of 22 on 23 January 1863 as a result of the transformation of it from the Central Committee of the National and was the highest executive body in the uprising . Provisional Government signed the " Manifesto ," in which he called for the fight and announce the enfranchisement of peasants , which remained a fiction because of the inability to enforce the decision. The government has proposed a person Ludwika Mierosławskiego the uprising dictator, but this after losing two battles resigned to take the position. After the takeover of power by the party of white TRN changed its name to the National Government .
-National Government had legislative power and the executive , created his own secret state administration, responsible, among others, for collecting taxes , the operation of a secret e-mail , edit the press.
-The arrest Romuald Traugutta 10 April 1864 r. Is considered to be the end of the activities of the National Government during the January uprising.
+
+By the 22nd of January, the Central Committee, the Revolutionary umbrella organization, became the highest executive body in the uprising. Though reluctant at first, the heads of underground-government-to-be had no choice but declare a state of revolt. The  Provisional Government signed their Manifesto, heavily based on the 1836 _Manifesto of the Polish Democratic Society_, in which the peasants were called to join the fight for their emancipation - an emancipation which remained a fiction due to the inability of the committee to impose it, but has nevertheless drove many a serf to take arms. 
+
 --
 
 <!--.slide: data-background-image="./pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
@@ -820,7 +820,7 @@ Proclamation of the <i>Polish National Government</i>
 ![Maria Ilnicka](./pics/MariaIlnicka2.jpg#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
-Maria Ilnicka - Wrote the 1863 manifesto 
+Maria Ilnicka - One of the main authors of the 1863 manifesto 
 </span></div>
 --
 <!--.slide: data-background-image="./pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
@@ -828,17 +828,30 @@ Maria Ilnicka - Wrote the 1863 manifesto
 ![Maria Ilnicka](./pics/MariaIlnicka.jpg#cnt) 
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
-Maria Ilnicka - Wrote the 1863 manifesto 
+Maria Ilnicka - One of the main authors of the 1863 manifesto 
 </span></div>
 --
 <!--.slide: data-background="white" -->
 
-### Ludwik Mierosławski 
+### Ludwik Mierosławski <!-- .element: style="color:black"--> 
 
-![](./pics/Mieroslawski.png) <!--.element: style="width: 400px; float: left;left:-50px;z-index: 100;position: relative;"-->
+![](./pics/Mieroslawski.png#cnt2) <!--.element: style="width: 400px; float: left;left:-50px;z-index: 100;position: relative;"-->
 
 The first of four dictators of the Uprising. Took part in the November Uprising of the 1830s, as well as fought for the insurgents in Baden and in the Electorate of the Palatinate 1848-49.
-A member of the Polish Democratic Society.
+A member of the Polish Democratic Society. <!-- .element: style="color:black"--> 
+
+--
+
+![targutt](./pics/Romuald_Traugutt_111.PNG#cnt2) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
+
+The political struggles between the Reds and the Whites kept turning the balance of power inside the National Government (as it was eventually called, in an act of the White faction). Between **Ludwik Mierosławski**, the first dictator appointed from amongst the Reds in February, and **Romuald Traugutt**, the last head of the National Government, whose term ended tragically on the April 1864, no less than 9 heads of government in different departments and configurations, held office.
+
+![](./pics/Mieroslawski.png#cnt2) <!--.element: style="width: 400px; float: left;left:-50px;z-index: 100;position: relative;"-->
+
+--
+<!--.slide: data-background-image="./pics/Rozstrzelani_i_powieszeni.jpg" class="text-bg-bw"-->
+
+Although sporadic fighting lasted into early 1865, the Uprising was overall crushed by April 1864, with the hanging of Romuald Traugutt.
 
 --
 <blockquote>
@@ -933,7 +946,6 @@ Na pobojowisku (trans. On the battlefield) - Polonia cycle – Artur Grottger
 
 ![another](./pics/0_7e36c_a6ca7526_XL.jpg#cnt)
 
-
 --
 <!--.slide: data-background-image="./pics/centralComitee.jpg" class="blur"-->
 
@@ -988,7 +1000,8 @@ The entry of troops into insurgent Drużkopola the Volyn
 ![](./pics/Muravyov.png#cnt)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
-Michaił Murawjow Wileński "Hangman" in Lithuania
+Michaił Murawjow Wileński, Lithuania's governor general, the "hangman."
+
 </span></div>
 
 --
@@ -999,13 +1012,21 @@ Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in
 
 <!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
 
+On February 19, 1864, Alexander I issued an **Emancipation Decree** of the Polish peasants, based on the recommendations of the chief author of the Russian land reforms, **Nikolai Miliutin**, exactly 3 years after his '61 _Statutes Concerning Peasants Leaving Serf Dependence_. {A transcription of which can be found here http://www.hrono.ru/dokum/1800dok/18640219pol.php |1}
+
+--
+<blockquote>
+It was symbolic of the importance of the peasant issue in the January Insurrection that the insurrection had begun with the emancipation decree and ended with Polish peasants fighting the last battle. The National Government offered the peasants more than they received through any of the reforms of the partitioning powers {Wandycz, Piotr Stefan. The Lands of Partitioned Poland, 1795-1918. University of Washington Press , 1984. http://hdl.handle.net/2027/heb.05069.0001.001. p.177 |1 }
+</blockquote>
+
+<!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
+
 ![](./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png#cnt2)
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Alliance of Polish nobility and peasant during January Uprising
 </span></div>
 --
-
 <!--.slide: data-background-image="./pics/woundedMinsk.png" class="text-bg-clr"-->
 
 Public executions and deportations to Siberia led many Poles to abandon armed struggle and turn instead to the idea of "organic work": economic and cultural self-improvement.
@@ -1019,10 +1040,12 @@ Public executions and deportations to Siberia led many Poles to abandon armed st
 ### The Polish professional revolutionary exiles
 
 --
+
 <blockquote>
-I can only say that the insurrection, however much of heroism and patriotic devotion it has subsequently embodied, appears to me to have been to a great extent artificially stimulated by the wonderfully dextrous managment of the press and the telegraph and by a social machinery which no other nation than one of generations of illustrious exiles can command.
- <cite> - Henry Hotze {The American Cofederacy's chief publicity agent in England, in a letter to J.P.Benjamin. Dec. 26, 1863. Cited by Kutolowski, John F., The West And Poland, ect' p.85 | 2} </cite>
+I can only say that the insurrection, however much of heroism and patriotic devotion it has subsequently embodied, appears to me to have been to a great extent artificially stimulated by the wonderfully dextrous management of the press and the telegraph and by a social machinery which no other nation than one of the generations of illustrious exiles can command.
+ <cite> - Henry Hotze {The American Confederacy's chief publicity agent in England, in a letter to J.P.Benjamin. Dec. 26, 1863. Cited by Kutolowski, John F., The West And Poland, etc' p.85 | 2} </cite>
 </blockquote>
+
 --
 
 "While it is often and quite justifiably remarked that there was hardly a barricade or battlefield in Europe between 1830 and 1870 where no Poles were fighting, this is especially true for the revolution of 1848/1849." {Dowe, Dieter. Europe in 1848 : Revolution and Reform. Berghahn Books, 2001. https://books.google.co.il/books?id=B3qRFCn5CHoC&pg=PA180&dq=Polish+romantic+revolutionaries&sig=cOYtkxH_i8lEX_0VUMEVhwGLVWs&redir_esc=y. p.180 | 1}
@@ -1030,38 +1053,92 @@ I can only say that the insurrection, however much of heroism and patriotic devo
 
 #### The Polish Propoganda
 
-'The Russian Consul General had earlier written letters to the _Morning Post_, May 16 and 21, countering the stories of Russian atrocities. at least one Russian writer pressed the (Russian?) Minister of War in June to increase Russian propoganda: "It is known the the Polish party spends enormous sums on attracting all the organs of the public opinion in Western Europe to its side and that it organized what could be called a whole factory for news and articles..." {McCauley, Martin, and Peter Waldron. The Emergence of the Modern Russian State, 1855–81. London: Palgrave Macmillan UK, 1988 <br> p.163 <br> Cited by F. Kutolowski, John. “Mid-Victorian Public Opinion, Polish Propaganda, and the Uprising of 1863.” In The West And Poland: Essays on Governmental and Public Responses to the Polish National Movement, 1861-1864, 153–82. Michigan: University of Michigan, 2000. p.113 | 1}
+'The Russian Consul General had written letters to the _Morning Post_, May 16 and 21, countering the stories of Russian atrocities. At least one Russian writer pressed the Minister of War in June to increase Russian propoganda: 
+<<blockquote>
+It is known the the Polish party spends enormous sums on attracting all the organs of the public opinion in Western Europe to its side and that it organized what could be called a whole factory for news and articles... {McCauley, Martin, and Peter Waldron. The Emergence of the Modern Russian State, 1855–81. London: Palgrave Macmillan UK, 1988 <br> p.163 <br> Cited by F. Kutolowski, John. “Mid-Victorian Public Opinion, Polish Propaganda, and the Uprising of 1863.” In The West And Poland: Essays on Governmental and Public Responses to the Polish National Movement, 1861-1864, 153–82. Michigan: University of Michigan, 2000. p.113 | 1}
+</blockquote>
 
 ---
-
+<!--.slide: data-background-image="./pics/MarchingoffPolishPatriotstoSiberia.IllustratedLondonNews-cropped.jpg" class="text-bg-bw"-->
 ## The uprising in the international arena
 
-![Parliament proceedings are unimportant](./pics/2017-05-19-15-11-43.png)
-{Daily Ohio statesman. (Columbus, Ohio), 02 April 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/lccn/sn84028645/1863-04-02/ed-1/seq-1/>|1}
-
----
+<div class="txt-overlay fragment "><span class="txt-overlay">
+"Marching off Polish Patriots to Siberia." Illustrated London News [London, England] 14 Feb. 1863: 169. Illustrated London News. Web. 26 May 2017. <a href="http://find.galegroup.com/iln/infomark.do?&source=gale&prodId=ILN&userGroupName=tel_aviv&tabID=T003&docPage=article&docId=HN3100060929&type=multipage&contentSet=LTO&version=1.0">source</a>
+</span></div>
+--
 
 ## The diplomatic impact of the uprising on the American Civil War
+
+--
+Meanwhile, both sides of the US Civil War, raging on concurrently, were making their own diplomatic efforts on European ground. 
+
+--
+
+At the outbreak of the Polish Uprising, the Confederacy was actively pursuing, and even almost achieving, support from the French and British governments.  While the Union "was going through very dark days." The Confederate army was as far north as Pennsylvania, and the state was in a panic. The dread of European intervention tipping the balance was looming. The only foreign government publicly supporting the Northern cause was no other the autocratic Russian Tsar.
 
 --
 <!--.slide: data-background-image="./pics/1863LincolnRussia.jpg" class="blur"-->
 
 ![Lincon-Tsar Punch](./pics/1863LincolnRussia.jpg#cnt)
 --
-## Visit of the Russian fleet
 
-During the winter of 1861–1862, the Imperial Russian Navy sent two fleets to American waters to avoid their getting trapped if a war broke out with Britain and France. Many Americans at the time viewed this as an intervention on behalf of the Union, though historians deny this.[53] The Alexander Nevsky and the other vessels of the Atlantic squadron stayed in American waters for seven months (September 1863 to June 1864){Thomas A. Bailey, "The Russian Fleet Myth Re-Examined," Mississippi Valley Historical Review, Vol. 38, No. 1 (Jun., 1951), pp. 81–90| 1}
+So, while American sympathy for the Polish cause was well-established, and the plight of the Poles was a cause célèbre for many decades, the immediate political meaning of the events across the ocean took an interesting turn in the days of the bloody civil war. For the North, there was a sudden "superficial affinity" with the Russian Empire which more than anything else weakened the American Polonophilia of old -  
 
-## Polish-Americans
+--
+
+<blockquote>
+Both were huge, self-sufficing areas. Both were energetic and expanding nations. Both, as huge melting pots, had the common task of fusing many different races. Both have simultaneously freed millions of subject people - slaves in America, serfs in Russia. Both had been faced during the Civil War years with the task of suppressing insurrection.
+</blockquote>
+
+--
+For the South, whose diplomats worked tirelessly to drum up support in Europe, the news of the Uprising cost dearly. As L. Q. C. Lamar, the Confederacy's special commissioner to Russia wrote  dolefully from London: 
+
+<blockquote>
+Lord Palmerston is far more deeply engrossed with the conferences, jealousies, and rivalries between the leading powers of Europe than with the fate of constitutional government in America. 
+</blockquote>
+
+--
+
+While the Union's Federal Ambassador to Paris, William L. Dayton, noted that: 
+
+<blockquote>
+The insurrection of Poland has driven American Affairs out of view for the moment. A disturbance on the Continent, especially in Central Europe, is so near at hand and touches the interests of so many of the crowned heads of these countries, that distant events fall out of sight until these more immediate troubles are settled. . . 
+</blockquote>
+
+--
+
+<blockquote>
+Suddenly, on September 24, two Russian ships sailed into New York harbor, and in several days six Muscovite vessels were docked in New York. On October 12, six more warships entered San Francisco harbor. America rejoiced: the Russians had come to protect her from European intervention!
+</blockquote>
+
+--
+
+But, it was not the case. It was Polish Insurrection which motivated the surprising New York and San Francisco visits of the Russian Fleet, whose placement was a way to avoid their getting trapped if a war broke out with Britain and France.
+
+--
+
+<blockquote>
+..and strategy was the main purpose behind it. After having turned down three series of protest notes of Poland, the Russian government feared that a scheming and frustrated Napoleon, perhaps in al liance with England, would, resort to a general Euro pean war in order to save the failing insurrection, to "liberate" Poland, and more importantly, to take what he could in the way of territory and prestige in the aftermath of such a war. Recalling a bitter experience in the Crimean War, Russian strategists decided to move warships out of the Baltic where they might again be bottled up by the French and English navies. {Wieczerzak, Joseph W. “A Polish Chapter in Civil War America; the Effects of the January Insurrection on American Opinion and Diplomacy.” Poland’s Millennium Series of the Kosciuszko Foundation. New York: Twayne Publishers, 1967. file://catalog.hathitrust.org/Record/006241307.}
+</blockquote>
+
+--
+
+Many Americans at the time viewed this as an intervention on behalf of the Union. The Alexander Nevsky and the other vessels of the Atlantic squadron stayed in American waters for seven months (September 1863 to June 1864){Thomas A. Bailey, "The Russian Fleet Myth Re-Examined," Mississippi Valley Historical Review, Vol. 38, No. 1 (Jun., 1951), pp. 81–90| 1}
+--
+<img data-src="/pics/2017-05-19-15-11-43.png#cnt2" width="400">
+
+<div class="txt-overlay fragment "><span class="txt-overlay">
+"Parliament proceedings are unimportant" {Daily Ohio statesman. (Columbus, Ohio), 02 April 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/lccn/sn84028645/1863-04-02/ed-1/seq-1/>|1}
+</span></div>
+
+--
 
 Count **Adam Gurowski** (born in the Kalisz, Poland, 10 September 1805; died in Washington, D.C., 4 May 1866) was a Polish-born author who emigrated to the United States in 1849.
+
+--
 
 ### Nos Amis Les Cosaques! {Hailprin, Michael. “Nos Amis Les Cosaques.” The Continental Monthly: Devoted to Literature and National Policy 5, no. 2 (1864): 216–21. http://ebooks.library.cornell.edu/cgi/t/text/pageviewer-idx?c=cont;cc=cont;g=moagrp;xc=1;rgn=full%20text;idno=cont0005-2;didno=cont0005-2;node=cont0005-2%3A11;view=image;seq=0222. | 1}
 
 --
 
-By one M. Haielprin, a prolific Jewish abolitionist and scholar.  In 1864 he contributed a paper entitled "Nos Amis les Cosaques" to the Boston Continental Monthly, a periodical founded by the poet Charles G. Leland, whose acquaintance he had made in Philadelphia. {Adler, Cyrus, and Gustav Pollak. Michael Heilprin and His Sons: A Biography. New York: Dodd, Mead and company, 1912. doi:10.2307/1450943. p.192 |3}
-
---
-
-The Continental Monthly, a magazine owned by Mrs. Martha Cook, one of the rare American workers for the Polish cause at the time, published two articles in 1864. One, printed in the January issue under the French title "Nos Amis les Cosaques/" was an indictment of America's Russophilia by Michael Heilprin, the son of a well-known rabbinical family and a secretary of the Washington Polish Committee.{Wieczerzak, Joseph. “Pre-and Proto-Ethnics: Poles in the United States Before the Immigration ‘After Bread.’” The Polish Review 21, no. 3 (1976): 7–38. http://www.jstor.org/stable/25777399. p.34 |2}
+In a scolding article published entitled "Nos Amis les Cosaques" in the Boston Continental Monthly, Michael Heilprin, a prolific Jewish abolitionist and a secretary of the Washington Polish Committee, he berated America's new-found Russophilia, in view of the Polish opression, and bemoned the desertion of the Polish cause by the fashionable Northern elite.
