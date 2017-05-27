@@ -791,7 +791,7 @@ The famous architect of Alexander II's liberal reforms was dispached to Poland t
 The forced conscription
 ( Branka [trans. Roundup] Polonia cycle – Artur Grottger)
 </span></div>
---
+
 --
 <!--.slide: data-background-image="./pics/forcedDraft.png" class="text-bg-clr"-->
 
@@ -808,7 +808,7 @@ By the 22nd of January, the Central Committee, the Revolutionary umbrella organi
 
 <!--.slide: data-background-image="./pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
-![menifesto](./pics/January_Uprising_proclamation_1863.PNG#cnt)
+<img data-src="./pics/January_Uprising_proclamation_1863.PNG#cnt2" width="400">
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Proclamation of the <i>Polish National Government</i> 
@@ -817,7 +817,7 @@ Proclamation of the <i>Polish National Government</i>
 --
 <!--.slide: data-background-image="./pics/January_Uprising_proclamation_1863.PNG" class="blur"-->
 
-![Maria Ilnicka](./pics/MariaIlnicka2.jpg#cnt)
+<img data-src="./pics/MariaIlnicka2.jpg#cnt" width="400">
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Maria Ilnicka - One of the main authors of the 1863 manifesto 
@@ -844,9 +844,9 @@ A member of the Polish Democratic Society. <!-- .element: style="color:black"-->
 
 ![targutt](./pics/Romuald_Traugutt_111.PNG#cnt2) <!--.element: style="width: 200px; float: right;right:-50px;z-index: 100;position: relative;"-->
 
+![](./pics/Mieroslawski.png#cnt2) <!--.element: style="width: 200px; float: left;left:-50px;z-index: 100;position: relative;"-->
 The political struggles between the Reds and the Whites kept turning the balance of power inside the National Government (as it was eventually called, in an act of the White faction). Between **Ludwik Mierosławski**, the first dictator appointed from amongst the Reds in February, and **Romuald Traugutt**, the last head of the National Government, whose term ended tragically on the April 1864, no less than 9 heads of government in different departments and configurations, held office.
 
-![](./pics/Mieroslawski.png#cnt2) <!--.element: style="width: 400px; float: left;left:-50px;z-index: 100;position: relative;"-->
 
 --
 <!--.slide: data-background-image="./pics/Rozstrzelani_i_powieszeni.jpg" class="text-bg-bw"-->
@@ -854,7 +854,7 @@ The political struggles between the Reds and the Whites kept turning the balance
 Although sporadic fighting lasted into early 1865, the Uprising was overall crushed by April 1864, with the hanging of Romuald Traugutt.
 
 --
-<blockquote>
+<blockquote style="font-size:60%";>
 Having read about the beginning of the revolt from newspapers, Dostoevsky began his private notebook of 1863 with the question: ‘‘What is the real war?— The Polish war is the war of two Christianities [Christian denominations— N.P.], this is the beginning of the future war of Russian Orthodox Christianity with Catholicism, in other words—of the Russian genius and European civilization. Here the progress is ours—and not an official progress (in agreement with the Dutch formula), but the peoples’ progress.’’ { F. M. Dostoevskii, Polnoe sobranie sochinenii v tridtsati tomakh (Leningrad: Nauka, 1972–90), 20:170 <br> Quoted in: Perlina, Nina. “Dostoevsky and His Polish Fellow Prisoners from the House of the Dead.” In Polish Encounters, Russian Identity, edited by David L. Ransel and Bozena Shallcross, 100–109. Bloomington, IN: Indiana University Press, 2005. p.100 | 12}
 </blockquote>
 
@@ -1015,10 +1015,12 @@ Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in
 On February 19, 1864, Alexander I issued an **Emancipation Decree** of the Polish peasants, based on the recommendations of the chief author of the Russian land reforms, **Nikolai Miliutin**, exactly 3 years after his '61 _Statutes Concerning Peasants Leaving Serf Dependence_. {A transcription of which can be found here http://www.hrono.ru/dokum/1800dok/18640219pol.php |1}
 
 --
+<!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
 <blockquote>
-It was symbolic of the importance of the peasant issue in the January Insurrection that the insurrection had begun with the emancipation decree and ended with Polish peasants fighting the last battle. The National Government offered the peasants more than they received through any of the reforms of the partitioning powers {Wandycz, Piotr Stefan. The Lands of Partitioned Poland, 1795-1918. University of Washington Press , 1984. http://hdl.handle.net/2027/heb.05069.0001.001. p.177 |1 }
+It was symbolic of the importance of the peasant issue in the January Insurrection that the insurrection had begun with the emancipation decree and ended with Polish peasants fighting the last battle. The National Government offered the peasants more than they received through any of the reforms of the partitioning powers { Wandycz, Piotr Stefan. The Lands of Partitioned Poland, 1795-1918. University of Washington Press , 1984. http://hdl.handle.net/2027/heb.05069.0001.001. p.177 | 1}
 </blockquote>
 
+--
 <!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
 
 ![](./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png#cnt2)
@@ -1062,7 +1064,7 @@ It is known the the Polish party spends enormous sums on attracting all the orga
 <!--.slide: data-background-image="./pics/MarchingoffPolishPatriotstoSiberia.IllustratedLondonNews-cropped.jpg" class="text-bg-bw"-->
 ## The uprising in the international arena
 
-<div class="txt-overlay fragment "><span class="txt-overlay">
+<div class="txt-overlay fragment" style="bottom:-100px !important"><span class="txt-overlay">
 "Marching off Polish Patriots to Siberia." Illustrated London News [London, England] 14 Feb. 1863: 169. Illustrated London News. Web. 26 May 2017. <a href="http://find.galegroup.com/iln/infomark.do?&source=gale&prodId=ILN&userGroupName=tel_aviv&tabID=T003&docPage=article&docId=HN3100060929&type=multipage&contentSet=LTO&version=1.0">source</a>
 </span></div>
 --
@@ -1117,8 +1119,8 @@ But, it was not the case. It was Polish Insurrection which motivated the surpris
 
 --
 
-<blockquote>
-..and strategy was the main purpose behind it. After having turned down three series of protest notes of Poland, the Russian government feared that a scheming and frustrated Napoleon, perhaps in al liance with England, would, resort to a general Euro pean war in order to save the failing insurrection, to "liberate" Poland, and more importantly, to take what he could in the way of territory and prestige in the aftermath of such a war. Recalling a bitter experience in the Crimean War, Russian strategists decided to move warships out of the Baltic where they might again be bottled up by the French and English navies. {Wieczerzak, Joseph W. “A Polish Chapter in Civil War America; the Effects of the January Insurrection on American Opinion and Diplomacy.” Poland’s Millennium Series of the Kosciuszko Foundation. New York: Twayne Publishers, 1967. file://catalog.hathitrust.org/Record/006241307.}
+<blockquote style="font-size:70%;">
+..and strategy was the main purpose behind it. After having turned down three series of protest notes of Poland, the Russian government feared that a scheming and frustrated Napoleon, perhaps in al liance with England, would, resort to a general Euro pean war in order to save the failing insurrection, to "liberate" Poland, and more importantly, to take what he could in the way of territory and prestige in the aftermath of such a war. Recalling a bitter experience in the Crimean War, Russian strategists decided to move warships out of the Baltic where they might again be bottled up by the French and English navies. { Wieczerzak, Joseph W. “A Polish Chapter in Civil War America; the Effects of the January Insurrection on American Opinion and Diplomacy.” Poland’s Millennium Series of the Kosciuszko Foundation. New York: Twayne Publishers, 1967. file://catalog.hathitrust.org/Record/006241307.| 1}
 </blockquote>
 
 --
@@ -1127,7 +1129,7 @@ Many Americans at the time viewed this as an intervention on behalf of the Union
 --
 <img data-src="/pics/2017-05-19-15-11-43.png#cnt2" width="400">
 
-<div class="txt-overlay fragment "><span class="txt-overlay">
+<div class="txt-overlay fragment" style="bottom:300px !important;font-size:130%;"><span class="txt-overlay">
 "Parliament proceedings are unimportant" {Daily Ohio statesman. (Columbus, Ohio), 02 April 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/lccn/sn84028645/1863-04-02/ed-1/seq-1/>|1}
 </span></div>
 
