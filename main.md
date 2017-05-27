@@ -1065,7 +1065,7 @@ It is known the the Polish party spends enormous sums on attracting all the orga
 ## The uprising in the international arena
 
 <div class="txt-overlay fragment" style="bottom:-100px !important"><span class="txt-overlay">
-"Marching off Polish Patriots to Siberia." Illustrated London News [London, England] 14 Feb. 1863: 169. Illustrated London News. Web. 26 May 2017. <a href="http://find.galegroup.com/iln/infomark.do?&source=gale&prodId=ILN&userGroupName=tel_aviv&tabID=T003&docPage=article&docId=HN3100060929&type=multipage&contentSet=LTO&version=1.0">source</a>
+"Marching off Polish Patriots to Siberia." Illustrated London News [London, England] 14 Feb. 1863: 169. Illustrated London News. <a href="http://find.galegroup.com/iln/infomark.do?&source=gale&prodId=ILN&userGroupName=tel_aviv&tabID=T003&docPage=article&docId=HN3100060929&type=multipage&contentSet=LTO&version=1.0">source</a>
 </span></div>
 --
 
