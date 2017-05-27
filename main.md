@@ -1127,7 +1127,7 @@ But, it was not the case. It was Polish Insurrection which motivated the surpris
 
 Many Americans at the time viewed this as an intervention on behalf of the Union. The Alexander Nevsky and the other vessels of the Atlantic squadron stayed in American waters for seven months (September 1863 to June 1864){Thomas A. Bailey, "The Russian Fleet Myth Re-Examined," Mississippi Valley Historical Review, Vol. 38, No. 1 (Jun., 1951), pp. 81–90| 1}
 --
-<img data-src="/pics/2017-05-19-15-11-43.png#cnt2" width="400">
+<img data-src="https://raw.githubusercontent.com/LemuelCushing/january-uprising-seminar/master/pics/2017-05-19-15-11-43.png#cnt2" width="400">
 
 <div class="txt-overlay fragment" style="bottom:300px !important;font-size:130%;"><span class="txt-overlay">
 "Parliament proceedings are unimportant" {Daily Ohio statesman. (Columbus, Ohio), 02 April 1863. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/lccn/sn84028645/1863-04-02/ed-1/seq-1/>|1}
