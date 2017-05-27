@@ -1012,7 +1012,7 @@ Piłsudski: "The greatness of our nation in the great epoch of 1863 consisted in
 
 <!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
 
-On February 19, 1864, Alexander I issued an **Emancipation Decree** of the Polish peasants, based on the recommendations of the chief author of the Russian land reforms, **Nikolai Miliutin**, exactly 3 years after his '61 _Statutes Concerning Peasants Leaving Serf Dependence_. {A transcription of which can be found here http://www.hrono.ru/dokum/1800dok/18640219pol.php |1}
+On February 19, 1864, Alexander II issued an **Emancipation Decree** of the Polish peasants, based on the recommendations of the chief author of the Russian land reforms, **Nikolai Miliutin**, exactly 3 years after his '61 _Statutes Concerning Peasants Leaving Serf Dependence_. {A transcription of which can be found here http://www.hrono.ru/dokum/1800dok/18640219pol.php |1}
 
 --
 <!--.slide: data-background-image="./pics/AllianceOfPolishNobilityAndPeasantDuringJanuaryUprising.png" class="text-bg-bw"-->
